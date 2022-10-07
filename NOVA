@@ -144,7 +144,7 @@ https://serv3.videovox.pw:443/ivonildoferreiradasilva1063/ivonildoferreiradasilv
 #EXTINF:0 type="stream" channelId="-1", TV Santa Cruz (Araraquara-SP)
 https://stmv1.srvstm.com:443/santacruztv9906/santacruztv9906/chunklist_w2098369138.m3u8
 #EXTINF:0 type="stream" channelId="-1", Rede Web TV (Taio-SC)
-type="stream" channelId="-1", Rede Web TV (Taio-SC)
+https://serv3.videovox.pw/alexandre8915/alexandre8915/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", Caravelas TV (Caravelas-BA)
 https://stmv1.srvif.com/adeildsontv/adeildsontv/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV Caravelas (Caravelas-BA)
