@@ -41,7 +41,6 @@ https://video01.logicahost.com.br:443/tvafolha/tvafolha/chunklist_w1845576496.m3
 https://fundacaonazare.com.br/tv-nazare
 #EXTINF:0 type="stream" channelId="-1", Classique TV Series
 https://stmv1.srvif.com/classeries/classeries/playlist.m3u8
-
 #EXTINF:0 type="stream" channelId="-1", TV Potengi (Natal-RN)
 https://stmv1.samcast.com.br/jeova3318/jeova3318/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV Viana (Matinhos-PR)
@@ -72,7 +71,6 @@ https://cdn.jmvstream.com:443/w/AVJ-10593/playlist/chunklist.m3u8
 https://stmv1.srvstm.com/tvmaresguaraparies5738/tvmaresguaraparies5738/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV Ouro Negro/TV Universal (Salvador-BA)
 https://stmv1.srvstm.com:443/diegodemenezes3156/diegodemenezes3156/chunklist_w2062410622.m3u8
-
 #EXTINF:0 type="stream" channelId="-1", Vale TV (Novo Hamburgo-RS)
 https://cdn.jmvstream.com:443/w/AVJ-11554/playlist/chunklist.m3u8
 #EXTINF:0 type="stream" channelId="-1", Xtreme TV (Camaquã-RS)
@@ -81,9 +79,8 @@ https://stmv1.voxtvhd.com.br/xtremetv/xtremetv/playlist.m3u8
 https://srv2.zcast.com.br/elzemar/elzemar/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV Juventude (Marechal Deodoro-AL)
 https://stmv1.srvif.com/valmirtv/valmirtv/playlist.m3u8
-
 #EXTINF:0 type="stream" channelId="-1", TVC/TV Gazeta (Araçatuba-SP)
-https://5ad482a77183d.streamlock.net:443/financeirotvc21.com.br/financeirotvc21.com.br/chunklist_w1123827605.m3u8
+https://video02.logicahost.com.br/tvc21/tvc21/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", TVC Rio (Rio de Janeiro-RJ)
 https://video01.logicahost.com.br:443/comunitariario/comunitariario/chunklist_w1437074839.m3u8
 #EXTINF:0 type="stream" channelId="-1", TVC Brasil (São Leopoldo-RS)
