@@ -22,7 +22,7 @@ https://srv4.zcast.com.br/telavivatv/telavivatv/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV Ibiapabana (São Benedito-CE)
 https://stmv1.duvoxtv.com.br:443/gamer/gamer/chunklist_w177155108.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV Velhacap/TV Brasil Web (São Cristóvão-SE)
-https://stream-01.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLuAYdB-JSmcrzCMhe57Ge_Hdwcqf5d8ijl0uyGk9ShsL)/dm/3/x82pp99/d/live-3.m3u8#cell=lnyc
+https://stream-04.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLl6i662bu78-ZL2_oKKB2SQXDfR6OY7x6jnxWHQDbuT3)/dm/3/x82pp99/d/live-3.m3u8#cell=lnyc
 #EXTINF:0 type="stream" channelId="-1", TSPB (João Pessoa-PB)
 https://serv2.videovox.pw/tvtony/tvtony/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", Catedral do Rock TV (Petrópolis-RJ)
