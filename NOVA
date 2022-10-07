@@ -213,7 +213,7 @@ https://video.fbau2-1.fna.fbcdn.net/hvideo-ncg-vll/_nc_cat-107/_nc_sr_t-4/v/rYS7
 https://server.flixtv.com.br:443/agrobrasiltv/agrobrasiltv/chunklist_w1792472012.m3u8
 #EXTINF:0 type="stream" channelId="-1", Agro Canal
 https://sba1.com/aovivo/agrocanal
-#EXTINF:0 type="stream" channelId="-1", TV Andradas
+#EXTINF:0 type="stream" channelId="-1", TV Andradas/Rede Minas (Andradas-MG)
 https://caikron.com.br:19360/tvandradas/tvandradas.m3u8
 #EXTINF:0 type="stream" channelId="-1", Loja da TV Piauí
 https://596639ebdd89b.streamlock.net/8036/8036/playlist.m3u8
