@@ -154,7 +154,7 @@ https://stmv2.samcast.com.br/alternativatvivainova/alternativatvivainova/playlis
 #EXTINF:0 type="stream" channelId="-1", TV Web Rezende (Palmital-PR)
 https://stmv1.duvoxtv.com.br/tvrzende/tvrzende/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV Litoral (Capão da Canoa-RS)
-https://video01.kshost.com.br:4443/angelo2472/angelo2472/chunklist_w408622690.m3u8
+https://srv5.zcast.com.br/redelitoral/redelitoral/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", Litoral TV (Fortaleza-CE)
 https://596639ebdd89b.streamlock.net/8048/8048/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV Ceve (Taubaté-SP)
