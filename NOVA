@@ -59,9 +59,9 @@ https://5cf4a2c2512a2.streamlock.net:443/8132/8132/chunklist_w1465783086.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-country=".", TV Assembleia BA (Salvador-BA)
 https://live.mediastreaming.com.br:443/tvalba/7e7b424cc5a8528480d3b2157d27f516.sdp/chunks.m3u8
 #EXTINF:0 type="stream" channelId="-1", Hits TV (Alvorada-RS)
-https://strv1.estbrasil.com:443/hitstv/hitstv/chunklist_w1462417405.m3u8
+https://stmv1.srvstm.com/gilberto6794/gilberto6794/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV Candidés/TV Cultura (Divinópolis-MG)
-https://cdn.jmvstream.com:443/w/LVW-8067/ngrp:LVW8067_ZffQjxn7UC_all/chunklist_b4618240.m3u8
+https://cdn.jmvstream.com/w/LVW-8067/ngrp:LVW8067_ZffQjxn7UC_all/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", Nova TV Agrotour (Porto Alegre-RS)
 https://video01.kshost.com.br/marcelo6682/marcelo6682/playlist.m3u8?t=1659054094
 #EXTINF:0 type="stream" channelId="-1", Canal Smart (Osasco-SP)
