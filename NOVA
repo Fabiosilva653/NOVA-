@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:0 type="stream" channelId="-1",1001 Noites (Curitiba-PR)
-http://aovivo.1001noites.com.br/
+https://cdn.jmvstream.com/w/LVW-8155/ngrp:LVW8155_41E1ciuCvO_all/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV Diário (Fortaleza-CE)
 https://stream-04.nyc.dailymotion.com/sec(IbeXB-fEZXft8Mu82uFOZYJCx6EBFO17pj3gK7w9Pu3pks3rP7E7dAsx4LaVWdGA)/dm/3/x7txn7q/s/live-3.m3u8#cell=lnyc
 #EXTINF:0 type="stream" channelId="-1",AWTV (Porto Velho-RO)
