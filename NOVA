@@ -1,7 +1,10 @@
 #EXTM3U
-#EXTINF:0 type="stream" channelId="-1", TV Diário 
+#EXTINF:0 type="stream" channelId="-1",1001 Noites (Curitiba-PR)
+https://cdn.jmvstream.com:443/w/LVW-8155/ngrp:LVW8155_41E1ciuCvO_all/chunklist_b2723840.m3u8
+#EXTINF:0 type="stream" channelId="-1", TV Diário (Fortaleza-CE)
 https://stream-04.nyc.dailymotion.com/sec(IbeXB-fEZXft8Mu82uFOZYJCx6EBFO17pj3gK7w9Pu3pks3rP7E7dAsx4LaVWdGA)/dm/3/x7txn7q/s/live-3.m3u8#cell=lnyc
-
+#EXTINF:0 type="stream" channelId="-1",AWTV (Porto Velho-RO)
+https://cast.ebosystems.com.br:19360/awtv/awtv.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-logo="https://i.imgur.com/heBR3kT.png" group-title="Abertos",TV Escola
 http://187.85.237.8:8825/ipvt_002
 #EXTINF:0 type="stream" channelId="-1", TV Jornal do Nordeste (Belém-PB)
