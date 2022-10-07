@@ -168,7 +168,7 @@ https://stmv1.srvif.com:443/rbc/rbc/chunklist_w1078903501.m3u8
 #EXTINF:0 type="stream" channelId="-1", TVE/TV Brasil (Salvador-BA)
 http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-1.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV Omindaré
-https://video01.kshost.com.br/lourdes52007/lourdes52007/playlist.m3u8?t=1658802869
+https://video01.kshost.com.br/lourdes52007/lourdes52007/playlist.m3u8?t=1665172972
 #EXTINF:0 type="stream" channelId="-1", TV Rock (Francisco Beltrão-PR)
 https://59f1cbe63db89.streamlock.net:1443/tvbeltrao3/_definst_/tvbeltrao3/chunklist_w157181831.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV Mídia (Guarabira-PB)
