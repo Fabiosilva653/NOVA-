@@ -95,9 +95,9 @@ https://5cf4a2c2512a2.streamlock.net/tvnovaesperanca/tvnovaesperanca/playlist.m3
 https://video01.kshost.com.br/cypriano46326/cypriano46326/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV Assembleia MT (Cuiabá-MT)
 https://streaming.al.mt.gov.br/test/index.m3u8
-#EXTINF:0 type="stream" channelId="-1", TV 7 Lagoas (Sete Lagoas-MG)
+#EXTINF:0 type="stream" channelId="-1", TV 7 Lagoas/ComBrasil (Sete Lagoas-MG)
 https://livefocamundo.com:8081/tvsetelagoas/tracks-v1a1/mono.m3u8
-#EXTINF:0 type="stream" channelId="-1", TV Tubá (Tubarão-SC)
+#EXTINF:0 type="stream" channelId="-1", TV Tubá/Tv Aparecida (Tubarão-SC)
 https://stmv1.voxtvhd.com.br/radiotvtuba/radiotvtuba/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", TVCI/Pai Eterno (Paranaguá-PR)
 https://5e837408ea907.streamlock.net:1936/tvci/tvci/chunklist_w985179741.m3u8
