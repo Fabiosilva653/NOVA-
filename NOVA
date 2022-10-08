@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:0 type="stream" channelId="-1",TV Nova Família (São Paulo-SP)
+https://video01.logicahost.com.br/novafamilia/novafamilia/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1",1001 Noites (Curitiba-PR)
 https://cdn.jmvstream.com/w/LVW-8155/ngrp:LVW8155_41E1ciuCvO_all/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV Diário (Fortaleza-CE)
@@ -249,56 +251,66 @@ https://stmv1.srvstm.com:443/bruno4723/bruno4723/chunklist_w526414876.m3u8
 https://5a2b083e9f360.streamlock.net:443/rog/rog.sdp/chunklist_w360744515.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV Prevê/TV Brasil 2 (Bauru-SP)
 https://video01.kshost.com.br:4443/paulispar7372/paulispar7372/chunklist_w143503201.m3u8
-#EXTINF:0 type="stream" channelId="-1", TV Ecovale (Chapada dos Guimarães-MT)
+#EXTINF:0 type="stream" channelId="-1", TV Ecovale/Rede Brasil (Chapada dos Guimarães-MT)
 https://livefocamundo.com:8081/tvecovale/index.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV Fênix (Salvador-BA)
 https://stmv1.srvstm.com:443/tvfenixbahia/tvfenixbahia/chunklist_w1664529714.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV Chapada (Morro do Chapéu-BA)
 https://tvchapada.proxy.tokplay.com.br/main.m3u8
-#EXTINF:0 type="stream" channelId="-1", TV Vitória ( Recife-PB)
+#EXTINF:0 type="stream" channelId="-1", TV Vitória/TV Evangelizar (Recife-PB)
 https://5a0c3936c25c8.streamlock.net:443/tvvitoriape/tvvitoriape/chunklist_w84793709.m3u8
-#EXTINF:0 type="stream" channelId="-1", Rede TV Família
+#EXTINF:0 type="stream" channelId="-1", Rede TV Família (Alta Floresta dOeste-RO)
 https://video01.kshost.com.br:4443/walmeson9011/walmeson9011/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1", TV O Dia/RedeTV
+#EXTINF:0 type="stream" channelId="-1", TV O Dia/RedeTV (Teresina-PI)
 https://alanza.iptv2022.com/TV_O_DIA/index.m3u8
+#EXTINF:0 type="stream" channelId="-1",Rede TV Mais (Guarapuava-PR)
+https://stmv7.samcast.com.br/playredetvmais/playredetvmais/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV ART
 https://alanza.iptv2022.com/TV_ART_HD/index.m3u8
 #EXTINF:0 type="stream" channelId="-1", UP TV
 https://stmv1.srvstm.com:443/paulo4642/paulo4642/chunklist_w1180670591.m3u8
-#EXTINF:0 type="stream" channelId="-1", TV Boa Nova ( Aracruz-ES)
+#EXTINF:0 type="stream" channelId="-1", TV Boa Nova (Aracruz-ES)
 https://stmv.video.expressolider.com.br/tvboanova/tvboanova/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1", Canal Fronteira
+#EXTINF:0 type="stream" channelId="-1", Fronteira Channel (Messias Targino-RN)
 https://alanza.iptv2022.com:443/TV_FRONTEIRA/tracks-v1a1/mono.m3u8
-#EXTINF:0 type="stream" channelId="-1", Fronteira Movies
+#EXTINF:0 type="stream" channelId="-1", Fronteira Movies (Messias Targino-RN)
 https://alanza.iptv2022.com:443/FRONTEIRA_MOVIES/tracks-v1a1/mono.m3u8
-#EXTINF:0 type="stream" channelId="-1", TV Nordestina
+#EXTINF:0 type="stream" channelId="-1",Fronteira Kids ( Messias Targino-RN)
+https://alanza.iptv2022.com/FRONTEIRA_KIDS/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", TV Nordestina (Campina Grande-PB)
 https://alanza.iptv2022.com:443/tv_nordestina/tracks-v1a1/mono.m3u8
+#EXTINF:0 type="stream" channelId="-1",TV Rio Grande (Fronteira-MG)
+https://stmv1.srvif.com/tvriogrande/tvriogrande/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV Sul de Minas
 https://alanza.iptv2022.com:443/Tv_Sul_de_Minas/tracks-v1a1/mono.m3u8
-#EXTINF:0 type="stream" channelId="-1", Lagoa TV
+#EXTINF:0 type="stream" channelId="-1", Lagoa TV (Lagoa Vermelha-RS)
 https://alanza.iptv2022.com/LAGOA_TV/index.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV Nova Esperança
 https://alanza.iptv2022.com/tv_nova_esperanca/index.m3u8
-#EXTINF:0 type="stream" channelId="-1", TV Clic Brasil/Rede Brasil
+#EXTINF:0 type="stream" channelId="-1", TV Clic Brasil/Rede Brasil (Osasco-SP)
 https://alanza.iptv2022.com:443/TV_CLIC_BRASIL/tracks-v1a1/mono.m3u8
-#EXTINF:0 type="stream" channelId="-1", TV Lagos
+#EXTINF:0 type="stream" channelId="-1", TV Lagos (Macaé-RJ)
 https://alanza.iptv2022.com:443/TV_LAGOS/tracks-v1a1/mono.m3u8
-#EXTINF:0 type="stream" channelId="-1", Nova TV Agrotoor
+#EXTINF:0 type="stream" channelId="-1", TV Lagoa Dantas (Monsenhor Hipólito-PI)
+https://stmv2.voxtvhd.com.br/tvlagoadantas/tvlagoadantas/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", Nova TV Agrotoor (Porto Alegre-RS)
 https://alanza.iptv2022.com/NovaTV_Agrotoor/index.m3u8
-#EXTINF:0 type="stream" channelId="-1", CNB
+#EXTINF:0 type="stream" channelId="-1", CNB (Orlando-USA)
 https://alanza.iptv2022.com:443/TV_CNB/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV Braga Brasil
 https://alanza.iptv2022.com:443/Braga_Brasil/tracks-v1a1/mono.m3u8
-#EXTINF:0 type="stream" channelId="-1", Life Channel
+#EXTINF:0 type="stream" channelId="-1", Life Channel (Adamantina-SP)
 https://alanza.iptv2022.com:443/LIFE_CHANNEL_BRASIL/tracks-v1a1/mono.m3u8
-#EXTINF:0 type="stream" channelId="-1", Assim É Portugal
+#EXTINF:0 type="stream" channelId="-1", Assim É Portugal (Rio de Janeiro-RJ)
 https://alanza.iptv2022.com:443/ASSIME_PORTUGAL_TV/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV Jacutinga
 https://alanza.iptv2022.com:443/TV_Jacutinga/tracks-v1a1/mono.m3u8
-#EXTINF:0 type="stream" channelId="-1", Rede Sul
+#EXTINF:0 type="stream" channelId="-1", Rede Sul (Porto Alegre-RS)
 https://alanza.iptv2022.com:443/Rede_Sul_de_Televisao/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1", Rede Livre
 https://alanza.iptv2022.com:443/REDE_LIVRE/tracks-v1a1/mono.m3u8
+#EXTINF:0 type="stream" channelId="-1",Livre TV (Parnamirim-RN)
+https://video02.logicahost.com.br/livretv/livretv/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", Rede Metrópole/Rede Meio Norte
 https://alanza.iptv2022.com/RedeMetropole-ptbr/index.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV Metropolitana Rio (Rio de Janeiro-RJ)
@@ -379,7 +391,7 @@ http://tvergaomnes.duckdns.org:8080/hls/ergaomnes.m3u8
 https://video01.kshost.com.br/marcos1646/marcos1646/playlist.m3u8?t=1648389261
 #EXTINF:0 type="stream" channelId="-1", TV Sistec
 https://srv1.zcast.com.br/tvsistec/tvsistec/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1", BrSuper TV/Rede Brasil
+#EXTINF:0 type="stream" channelId="-1", BrSuper TV/Rede Brasil (Pará de Minas-MG)
 https://alanza.iptv2022.com/RSCTV_Brasil/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV Brasil Hits
 https://video01.logicahost.com.br/brasilhits/brasilhits/chunklist_w1407789719.m3u8
@@ -437,8 +449,6 @@ https://tv.domustelecom.com.br/media/n/BZiZode5y2GXndi0otaZ/a/playlist.m3u8?ch=B
 https://livefocamundo.com:8081/esatv/index.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV Diversa/TV Brasil
 https://hls.brasilstream.com.br/live/tvdiversa/tvdiversa/index.m3u8?token=5882573756041161000
-#EXTINF:0 type="stream" channelId="-1", AWTV (Porto Velho-RO)
-https://cdn.jmvstream.com:443/w/LVW-9773/ngrp:LVW9773_eRZLMN9Hsr_all/chunklist_b2628000.m3u8
 #EXTINF:0 type="stream" channelId="-1", RedeTV
 https://hls.brasilstream.com.br/live/redetv/redetv/index.m3u8?token=7371056516177287000
 #EXTINF:0 type="stream" channelId="-1", Rede NGT
@@ -1188,3 +1198,4 @@ https://59f1cbe63db89.streamlock.net:1443/mundotv2/_definst_/mundotv2/chunklist_
 https://stmv1.livevoxtv.com.br/webtv93/webtv93/playlist.m3u8
 #EXTINF:0 tvg-country="" tvg-logo="https://i.imgur.com/TxdOyKS.png" group-title=" ",Yeeaah!
 http://srv3.zcast.com.br/yeeaah/yeeaah/playlist.m3u8?checkedby:iptvcat.com
+
