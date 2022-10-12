@@ -526,37 +526,39 @@ https://59f2354c05961.streamlock.net:1443/redecidade/_definst_/redecidade/chunkl
 #EXTINF:0 type="stream" channelId="-1", TV Babitonga (Joinvile-SC)
 https://stmv3.samcast.com.br/christianalves2862/christianalves2862/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", WSN TV do Carro (Belo Horizonte - MG)
-https://video01.kshost.com.br/webseminovos5853/webseminovos5853/playlist.m3u8?t=1636798130
+https://video01.kshost.com.br/webseminovos5853/webseminovos5853/playlist.m3u8?t=1665572933
 #EXTINF:0 type="stream" channelId="-1", TV do Povo/Rede Meio Norte (Ariquemes - RO)
 https://video01.logicahost.com.br/tvdopovo1/tvdopovo1/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV Marajoara/Rede Mundial (Ananindeua-PA)
-https://video01.kshost.com.br/tv31966/tv31966/playlist.m3u8
+https://video01.kshost.com.br:4443/tv31966/tv31966/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV Thathi (Ribeirão Preto-SP)
 https://cdn-grupo-10049.ciclano.io:1443/grupo-10049/grupo-10049/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV8/AWTV (Porto Velho-RO)
 https://stmv3.samcast.com.br/jose8272/jose8272/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1", TVT (Mogi das Cruzes-SP)
-https://stream-02.nyc.dailymotion.com/sec(hq_e0q5VHX_FvDCk_Uz4GxL__cPfHg-VLcpx3-klEzU)/dm/3/x6ph7x7/d/live-0.m3u8#cell=lnyc
+#EXTINF:0 type="stream" channelId="-1", TVT (Sao Bernardo do Campo-SP)
+https://www.dailymotion.com/cdn/live/video/x6ph7x7.m3u8?sec=FWFzmsk8oVCt46Yt9RdOxLTVRH05_kSYVj0NarzMNbS3PS3FBbJVCsfbL7NB3GwF_rnH3ZH7wQK0KXq_-0TlLQ&dmTs=922538&dmV1st=ECBC9E89B8C8333890555D2F04F8B375
 #EXTINF:0 type="stream" channelId="-1", NossaTV (Belo Horizonte-MG)
-https://cdn.jmvstream.com/w/LVW-8541/LVW8541_rYryTUoUlj/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1", Rede Metrópole ( Rede Meio Norte) (Assis-SP)
+https://cdn.jmvstream.com/w/LVW-8541/LVW8541_rYryTUoUlj/chunklist.m3u8
+#EXTINF:0 type="stream" channelId="-1", Rede Metrópole/Rede Meio Norte (Assis-SP)
 https://stream.amsolution.net.br:8443/live/60ce4e9b6adee/index.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV Vale (Gravataí-RS)
 https://cdn.jmvstream.com/w/AVJ-9172/playlist/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1",Oásis TV (Belo Horizonte-MG)
+https://stmv5.samcast.com.br/oasistv/oasistv/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV Câmara (Campina Grande-PA)
-https://video01.kshost.com.br/ribamar1460/ribamar1460/playlist.m3u8?t=1636735115
+https://video01.kshost.com.br/ribamar1460/ribamar1460/playlist.m3u8?t=1665574930
 #EXTINF:0 type="stream" channelId="-1", WTJ Minas ( Belo Horizonte - MG)
-https://video01.kshost.com.br/wladimir4773/wladimir4773/playlist.m3u8?t=1636736084
+https://video01.kshost.com.br/wladimir4773/wladimir4773/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", ALL TV (Morumbi-SP)
 https://cdn.jmvstream.com/w/AVJ-9086/playlist/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", D+TV (Campos dos Goytacazes - RJ)
 https://stmv1.samcast.com.br:443/demaistv6503/demaistv6503/chunklist_w1412759915.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV ACE (Caraguatatuba-SP)
 https://stmv4.samcast.com.br/associacaocomercialeempresarialdecaraguatatuba9808/associacaocomercialeempresarialdecaraguatatuba9808/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1", FDR (Fortaleza-CE)
+#EXTINF:0 type="stream" channelId="-1", FDR/Futura (Fortaleza-CE)
 https://Stmv1.transmissaodigital.com/ronald6259/ronald6259/playlist.m3u8
 #EXTINF: 0 type = "stream" channelId = "- 1" size = "", TV Santa (Santa Cruz do Rio Pardo - SP)
-https://596639ebdd89b.streamlock.net/8046/8046/playlist.m3u8
+https://596639ebdd89b.streamlock.net/tvbela0982/tvbela0982/playlist.m3u8
 #EXTINF: 0 type = "stream" channelId = "- 1", Portal Sudoeste
 https://livefocamundo.com:8081/tvsudoeste/index.m3u8
 #EXTINF: 0 type = "stream" channelId = "- 1", Blits TV
@@ -664,7 +666,7 @@ https://mastershowtv.videovox.pw/master6123/master6123/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV Master (João Pessoa-PB)
 https://virtues.es:1936/tvmaster/tvmaster/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV Metrópole (Ourinhos-SP)
-https://usher.ttvnw.net/api/channel/hls/tvmetropoleourinhos.m3u8?allow_source=true&fast_bread=true&p=1261041&play_session_id=38409d31bcec61f5104b1613898c2f60&player_backend=mediaplayer&playlist_include_framerate=true&reassignments_supported=true&sig=9c08545e25ba8884c85e0e818878fade60123a2f&supported_codecs=avc1&token=%7B%22adblock%22%3Afalse%2C%22authorization%22%3A%7B%22forbidden%22%3Afalse%2C%22reason%22%3A%22%22%7D%2C%22blackout_enabled%22%3Afalse%2C %22canal%22%3A%22tvmetropoleourinhos%22%2C%22channel_id%22%3A728254181%2C%22chansub%22%3A%7B%22restricted_bitrates%22%3A%5B%5D%2C%22view_until%22%3A1924905600%7D%2C %22ci_gb%22%3Afalse%2C%22geoblock_reason%22%3A%22%22%2C%22device_id%22%3A%2290c12bb07ff13da7%22%2C%22expires%22%3A1634678900%2C%22extended_history_allowed%22%3Afalse%2C%2 %22%3A%22%22%2C%22hide_ads%22%3Afalse%2C%22https_required%22%3Atrue%2C%22mature%22%3Afalse%2C%22partner%22%3Afalse%2C%22platform%22%3A%22web %22%2C%22player_type%22%3A%22embed%22%2C%22private%22%3A%7B%22allowed_to_view%22%3Atrue%7D%2C%22privileged%22%3Afalse%2C%22role%22%3A%22 %22%2C%22server_ads%22%3Atrue%2C%22show_ads%22%3Atrue%2C%22subscriber%22%3Afalse%2C%22turbo%22%3Afalse%2C%22user_id%22%3Anull%2C%22user_ip%22%3A%22152.249.67.169%22%2C%22version%22%3A2%7D&cdm=wv&player_version=1.6.0
+https://usher.ttvnw.net/api/channel/hls/tvmetropoleourinhos.m3u8?allow_source=true&fast_bread=true&p=5486339&play_session_id=2f347157a89180fc0b9282f294c1b99d&player_backend=mediaplayer&playlist_include_framerate=true&reassignments_supported=true&sig=f536ffa215e09c48897aa1ccd986cd5f6a30174c&supported_codecs=avc1&token=%7B%22adblock%22%3Afalse%2C%22authorization%22%3A%7B%22forbidden%22%3Afalse%2C%22reason%22%3A%22%22%7D%2C%22blackout_enabled%22%3Afalse%2C%22channel%22%3A%22tvmetropoleourinhos%22%2C%22channel_id%22%3A728254181%2C%22chansub%22%3A%7B%22restricted_bitrates%22%3A%5B%5D%2C%22view_until%22%3A1924905600%7D%2C%22ci_gb%22%3Afalse%2C%22geoblock_reason%22%3A%22%22%2C%22device_id%22%3A%22eR3N8RJEllBck55AJf2ujEzo3TcdpO33%22%2C%22expires%22%3A1665575249%2C%22extended_history_allowed%22%3Afalse%2C%22game%22%3A%22%22%2C%22hide_ads%22%3Afalse%2C%22https_required%22%3Atrue%2C%22mature%22%3Afalse%2C%22partner%22%3Afalse%2C%22platform%22%3A%22web%22%2C%22player_type%22%3A%22popout%22%2C%22private%22%3A%7B%22allowed_to_view%22%3Atrue%7D%2C%22privileged%22%3Afalse%2C%22role%22%3A%22%22%2C%22server_ads%22%3Atrue%2C%22show_ads%22%3Atrue%2C%22subscriber%22%3Afalse%2C%22turbo%22%3Afalse%2C%22user_id%22%3Anull%2C%22user_ip%22%3A%22179.235.29.9%22%2C%22version%22%3A2%7D&cdm=wv&player_version=1.14.0
 #EXTINF:0 type="stream" channelId="-1", TV Natal-RN
 http://tvnatal.ddns.net:1935/vmix/myStream/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV O Povo (Fortaleza-CE)
