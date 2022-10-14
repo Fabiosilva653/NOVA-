@@ -1,4 +1,12 @@
 #EXTM3U
+#EXTINF:0 type="stream" channelId="-1",Urban Movies
+http://200.194.238.229:8383/live/urbanmovies/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1",Urban Kids
+http://200.194.238.229:8383/live/urbankids/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1",Urban Docs
+https://5ad482a77183d.streamlock.net/urbantvdocsgmail.com/urbantvdocsgmail.com/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1",Urban Series
+https://5ad482a77183d.streamlock.net:443/urbantvseriesgmail.com/urbantvseriesgmail.com/chunklist_w301437188.m3u8
 #EXTINF:0 type="stream" channelId="-1",TV Grande Rede
 https://cdn-ronaldo-8623-1.ciclano.io:1443/ronaldo-8623-1/ronaldo-8623-1/chunklist_w1124761307.m3u8
 #EXTINF:0 type="stream" channelId="-1",TV Nova Família (São Paulo-SP)
