@@ -1100,9 +1100,9 @@ https://59f1cbe63db89.streamlock.net:1443/tvvaledasartes/_definst_/tvvaledasarte
 https://22722d.ha.azioncdn.net:443/hls/STsEBCLIVE_1080/index.m3u8
 #EXTINF:0 tvg-country="MZ" tvg-logo="https://i.imgur.com/5UIy5tD.png" group-title=";",TV Maná Moçambique
 http://c3.manasat.com:1935/tvmz/tvmz3/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 type="stream" channelId="-1", TV Boas Novas ( Rio de Janeiro-RJ)
-https://cdn.jmvstream.com:443/w/LVW-8326/LVW8326_yo99Mzc7qZ/chunklist.m3u8
-#EXTINF:0 type="stream" channelId="-1", TV Novo Tempo ( Jacareí-SP)
+#EXTINF:0 type="stream" channelId="-1", TV Boas Novas (Rio de Janeiro-RJ)
+https://cdn.jmvstream.com/w/AVJ-10022/playlist/chunklist.m3u8
+#EXTINF:0 type="stream" channelId="-1", TV Novo Tempo (Jacareí-SP)
 https://stream.live.novotempo.com:443/tv/smil:tvnovotempo.smil/chunklist_b3628000_slpor.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV COM (Santos-SP)
 https://srv1.zcast.com.br:443/tvcomsantos/tvcomsantos/chunklist_w1629389527.m3u8
@@ -1151,7 +1151,7 @@ http://209.126.127.101:1935/tvcidade/tvcidade/chunklist_w480711282.m3u8
 https://5c483b9d1019c.streamlock.net:443/8040/8040/chunklist_w1776211134.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV Cidade Viva
 https://live.cdn.upx.com/kwjqp/smil:cidadeviva.smil/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1", Tv Japi
+#EXTINF:0 type="stream" channelId="-1", Tv Japi (Jundiaí-SP)
 https://5d2c98775bafe.streamlock.net:443/8220/8220/chunklist_w1859648998.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV Santana (Santana do Matos-RN)
 https://59f2354c05961.streamlock.net:1443/santana01/_definst_/santana01/chunklist_w1813933599.m3u8
