@@ -1,4 +1,36 @@
 #EXTM3U
+#EXTINF:0 type="stream" channelId="-1",Piquet TV (Piquet Carneiro-CE)
+https://stmv2.samcast.com.br/francisconicomedes5798/francisconicomedes5798/chunklist_w669765239.m3u8
+#EXTINF:0 type="stream" channelId="-1",ITV (Ipanguaçu-RN)
+https://stmv3.voxtvhd.com.br/ipanguacutv/ipanguacutv/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1",TV Caruara (Caruaru-PE)
+https://stmv5.samcast.com.br/severino9163/severino9163/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1",SDP TV
+https://video01.kshost.com.br:4443/moobi3963/moobi3963/chunklist_w793598800.m3u8
+#EXTINF:0 type="stream" channelId="-1",TV Avant (Registro-SP)
+https://video01.logicahost.com.br:443/tvavant/tvavant/chunklist_w1042567111.m3u8
+#EXTINF:0 type="stream" channelId="-1",KTV Brasil (Brasília-DF)
+https://stmv1.samcast.com.br/paulohenrique5216/paulohenrique5216/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1",RTL Classic (Santos-SP)
+https://5a57bda70564a.streamlock.net/litoralclassics/litoralclassics.sdp/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1",TV Aurora (Campos dos Goytacazes-RJ)
+https://stmv.video.skyspace.com.br:443/tvaurora/tvaurora/chunklist_w2037575046.m3u8
+#EXTINF:0 type="stream" channelId="-1",TV Meu Xodó (Fortaleza-CE)
+https://5d82644094cc0.streamlock.net/8192/8192/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1",TV Sul Cariri
+https://5a2b083e9f360.streamlock.net:443/tsctv/tsctv.sdp/chunklist_w1200855539.m3u8
+#EXTINF:0 type="stream" channelId="-1",TV Curuça
+https://stmv1.srvif.com/tvcurucasp/tvcurucasp/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1",TV Lagoa Dantas (Monsenhor Hipólito-PI)
+https://stmv2.voxtvhd.com.br/tvlagoadantas/tvlagoadantas/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1",Suzuky TV
+https://stmv1.voxtvhd.com.br/suzukytv/suzukytv/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1",Yellow Tv
+https://serv3.videovox.pw/gilferson4004/gilferson4004/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1",US Brasil TV
+https://5a2b083e9f360.streamlock.net:443/usbrasiltv/usbrasiltv.sdp/chunklist_w1720431064.m3u8
+#EXTINF:0 type="stream" channelId="-1",Brasil TV
+https://5cf4a2c2512a2.streamlock.net/mundotv/mundotv/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1",Urban Movies (Florianópolis-SC)
 http://200.194.238.229:8383/live/urbanmovies/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1",Urban Kids (Florianópolis-SC)
