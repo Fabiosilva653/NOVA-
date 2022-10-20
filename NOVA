@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:0 type="stream" channelId="-1",TV RBA
+https://streaming03.zas.media:1936/rbatv/rbatv/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1",Oriundi TV (Rio do Oeste-SC)
+https://stmv5.samcast.com.br/oriunditv/oriunditv/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1",Piquet TV (Piquet Carneiro-CE)
 https://stmv2.samcast.com.br/francisconicomedes5798/francisconicomedes5798/chunklist_w669765239.m3u8
 #EXTINF:0 type="stream" channelId="-1",ITV (Ipanguaçu-RN)
