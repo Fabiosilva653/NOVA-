@@ -859,9 +859,10 @@ https://srv2.zcast.com.br/rtvmc/rtvmc/playlist.m3u8
 https://srv2.zcast.com.br/elzemar/elzemar/playlist.m3u8
 8#EXTINF:0 type="stream" channelId="-1", Animax Brasil (Nazário-GO)
 https://stmv1.samcast.com.br/muriloevangelistadearaujo2973/muriloevangelistadearaujo2973/playlplaylist.m3u8ghNF:0 type="stream" channelId="-1", AWC Channel (São Paulo-SP)
+#EXTINF:0 type="stream" channelId="-1",TESTE 1
 https://59f1cbe63db89.streamlock.net:1443/abraao/_definst_/abraao/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", BAH TV(Porto Alegre-RS)
-https://cdn.jmvstream.com/w/LVW-8203/ngrp:LVW8203_AH1TDAiC85_all/playlist.m3u8
+https://streaming03.zas.media:1936/bahtv/bahtv/chunklist_w1853895694.m3u8
 #EXTINF:0 type="stream" channelId="-1", Bem TV(SBT)(Tangara da Serra-MT)
 http://wz4.dnip.com.br/bemtv/bemtv.sdp/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", Bons Tempos TV (Várzea da Ro
