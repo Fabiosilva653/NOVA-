@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:0 type="stream" channelId="-1",Ou Tudo Ou Nada
-https://web.netcine.to/file/phxstorage26/html/storage.bunnycdn.com/html/content/conteudolb4/filmes2020/OUTUDOOUNADADUB-BAIXO.mp4?token=Gu9xcwarOn9QTTehr0YIddbMEKSAjFLoa1FbYo8FMgg&expires=1667868494
+#EXTINF:0 type="stream" channelId="-1",TV Câmara Campina Grande 
+https://video01.kshost.com.br/ribamar1460/ribamar1460/playlist.m3u8?t=1668865580
 #EXTINF:0 type="stream" channelId="-1",TV Petrópolis 
 https://video02.logicahost.com.br:443/tvpetropolis/tvpetropolis/chunklist_w1384977353.m3u8
 #EXTINF:0 type="stream" channelId="-1",LassTV (Rio de Janeiro-RJ)
