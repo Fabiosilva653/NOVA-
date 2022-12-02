@@ -1,4 +1,18 @@
 #EXTM3U
+#EXTINF:0 type="stream" channelId="-1",Dreiko TV
+https://stmv3.voxtvhd.com.br:443/dreikotv/dreikotv/chunklist_w75427749.m3u8?PlaylistM3UCL
+#EXTINF:0 type="stream" channelId="-1",Kanade
+https://stream.wowlymedia.com/hls/kanade/index.m3u8?PlaylistM3UCL
+#EXTINF:0 type="stream" channelId="-1",Latino Kids
+https://6362ca6f1fc28.streamlock.net/8062/8062/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 type="stream" channelId="-1",Moni TV
+https://tv.streaming-chile.com:1936/ngencrcbyy/ngencrcbyy/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 type="stream" channelId="-1",Melody Channel
+https://canal.mediaserver.com.co:8088/live/MelodyChannel.m3u8
+#EXTINF:0 type="stream" channelId="-1",
+#EXTINF:0 type="stream" channelId="-1",
+#EXTINF:0 type="stream" channelId="-1",Chiquilines
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-chiquilines-ono/9f87df01-9562-4a45-bc80-b9a17b51f2d7/4.m3u8
 #EXTINF:0 type="stream" channelId="-1",TV Câmara Campina Grande 
 https://video01.kshost.com.br/ribamar1460/ribamar1460/playlist.m3u8?t=1668865580
 #EXTINF:0 type="stream" channelId="-1",TV Petrópolis 
