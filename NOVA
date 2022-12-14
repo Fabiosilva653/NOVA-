@@ -3,14 +3,8 @@
 https://stream-03.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLhOy5qZrlQeBo1y0vAe3Ctg4pGbPZdOpUg2hbnB6g42h)/dm/3/x82cxbb/d/live-0.m3u8#cell=lnyc
 #EXTINF:0 type="stream" channelId="-1",TV Câmara Campina Grande 
 https://video01.kshost.com.br/ribamar1460/ribamar1460/playlist.m3u8?t=1668865580
-#EXTINF:0 type="stream" channelId="-1",TV Petrópolis 
-https://video02.logicahost.com.br:443/tvpetropolis/tvpetropolis/chunklist_w1384977353.m3u8
-#EXTINF:0 type="stream" channelId="-1",LassTV (Rio de Janeiro-RJ)
-https://streaming03.zas.media:1936/lasstv/lasstv/chunklist_w1901714723.m3u8
 #EXTINF:0 type="stream" channelId="-1",Aplus TV (Florianópolis-SC)
 https://srv1.zcast.com.br:443/aplustv/aplustv/chunklist_w855429151.m3u8
-#EXTINF:0 type="stream" channelId="-1",TV RBA
-https://streaming03.zas.media:1936/rbatv/rbatv/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1",Oriundi TV (Rio do Oeste-SC)
 https://stmv5.samcast.com.br/oriunditv/oriunditv/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1",Piquet TV (Piquet Carneiro-CE)
@@ -21,10 +15,6 @@ https://stmv3.voxtvhd.com.br/ipanguacutv/ipanguacutv/playlist.m3u8
 https://stmv5.samcast.com.br/severino9163/severino9163/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1",SDP TV
 https://video01.kshost.com.br:4443/moobi3963/moobi3963/chunklist_w793598800.m3u8
-#EXTINF:0 type="stream" channelId="-1",TV Avant (Registro-SP)
-https://video01.logicahost.com.br:443/tvavant/tvavant/chunklist_w1042567111.m3u8
-#EXTINF:0 type="stream" channelId="-1",KTV Brasil (Brasília-DF)
-https://stmv1.samcast.com.br/paulohenrique5216/paulohenrique5216/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1",RTL Classic (Santos-SP)
 https://5a57bda70564a.streamlock.net/litoralclassics/litoralclassics.sdp/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1",TV Aurora (Campos dos Goytacazes-RJ)
@@ -57,14 +47,6 @@ https://5ad482a77183d.streamlock.net:443/urbantvseriesgmail.com/urbantvseriesgma
 https://cdn-ronaldo-8623-1.ciclano.io:1443/ronaldo-8623-1/ronaldo-8623-1/chunklist_w1124761307.m3u8
 #EXTINF:0 type="stream" channelId="-1",TV Nova Família (São Paulo-SP)
 https://video01.logicahost.com.br/novafamilia/novafamilia/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1",1001 Noites (Curitiba-PR)
-https://cdn.jmvstream.com/w/LVW-8155/ngrp:LVW8155_41E1ciuCvO_all/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1", TV Diário (Fortaleza-CE)
-https://stream-04.nyc.dailymotion.com/sec(IbeXB-fEZXft8Mu82uFOZYJCx6EBFO17pj3gK7w9Pu3pks3rP7E7dAsx4LaVWdGA)/dm/3/x7txn7q/s/live-3.m3u8#cell=lnyc
-#EXTINF:0 type="stream" channelId="-1",AWTV (Porto Velho-RO)
-https://cast.ebosystems.com.br:19360/awtv/awtv.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-logo="https://i.imgur.com/heBR3kT.png" group-title="Abertos",TV Escola
-http://187.85.237.8:8825/ipvt_002
 #EXTINF:0 type="stream" channelId="-1", TV Jornal do Nordeste (Belém-PB)
 https://video01.logicahost.com.br:443/tvjornaldonordeste/tvjornaldonordeste/chunklist_w1333222479.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV Mackenzie (São Paulo-SP)
@@ -77,26 +59,18 @@ https://srv1.zcast.com.br:443/ulbtv/ulbtv/chunklist_w870653122.m3u8
 https://stmv2.samcast.com.br:443/rosanaa9913/rosanaa9913/chunklist_w1495898293.m3u8
 #EXTINF:0 type="stream" channelId="-1", Tela Viva TV (Rio de Janeiro-RJ)
 https://srv4.zcast.com.br/telavivatv/telavivatv/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1", TV Ibiapabana (São Benedito-CE)
-https://stmv1.duvoxtv.com.br:443/gamer/gamer/chunklist_w177155108.m3u8
-#EXTINF:0 type="stream" channelId="-1", TV Velhacap/TV Brasil Web (São Cristóvão-SE)
-https://stream-04.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLl6i662bu78-ZL2_oKKB2SQXDfR6OY7x6jnxWHQDbuT3)/dm/3/x82pp99/d/live-3.m3u8#cell=lnyc
 #EXTINF:0 type="stream" channelId="-1", TSPB (João Pessoa-PB)
 https://serv2.videovox.pw/tvtony/tvtony/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", Catedral do Rock TV (Petrópolis-RJ)
 https://stmv1.srvstm.com/catedraldorock/catedraldorock/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV Sosite (Várzea Paulista-SP)
 https://v8.ciclano.io:1443/tvinterlagos/_definst_/tvinterlagos/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1", TV Balcão (Belo Horizonte-MG)
-https://cdn.jmvstream.com:443/w/AVJ-10760/playlist/chunklist.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV Rosa de Saron (Alagoinhas-BA)
 https://stmv3.voxtvhd.com.br/rosadesaron/rosadesaron/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV Capital (Teresina-PI)
 https://stmv2.samcast.com.br/tvcapitalteresina/tvcapitalteresina/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV A Folha (Palmas-PR)
 https://video01.logicahost.com.br:443/tvafolha/tvafolha/chunklist_w1845576496.m3u8
-#EXTINF:0 type="stream" channelId="-1", TV Nazaré (Belém-BA)
-https://fundacaonazare.com.br/tv-nazare
 #EXTINF:0 type="stream" channelId="-1", Classique TV Series
 https://stmv1.srvif.com/classeries/classeries/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV Potengi (Natal-RN)
@@ -117,22 +91,14 @@ https://5cf4a2c2512a2.streamlock.net:443/8132/8132/chunklist_w1465783086.m3u8
 https://live.mediastreaming.com.br:443/tvalba/7e7b424cc5a8528480d3b2157d27f516.sdp/chunks.m3u8
 #EXTINF:0 type="stream" channelId="-1", Hits TV (Alvorada-RS)
 https://stmv1.srvstm.com/gilberto6794/gilberto6794/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1", TV Candidés/TV Cultura (Divinópolis-MG)
-https://cdn.jmvstream.com/w/LVW-8067/ngrp:LVW8067_ZffQjxn7UC_all/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", Nova TV Agrotour (Porto Alegre-RS)
 https://video01.kshost.com.br/marcelo6682/marcelo6682/playlist.m3u8?t=1659054094
 #EXTINF:0 type="stream" channelId="-1", Canal Smart (Osasco-SP)
 https://5ffab78b24f94.streamlock.net:443/smart/smart/chunklist_w1150074204.m3u8
-#EXTINF:0 type="stream" channelId="-1", TV Rabelo (São Luís-MA)
-https://cdn.jmvstream.com:443/w/AVJ-10593/playlist/chunklist.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV Mares (Guarapari-ES)
 https://stmv1.srvstm.com/tvmaresguaraparies5738/tvmaresguaraparies5738/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV Ouro Negro/TV Universal (Salvador-BA)
 https://stmv1.srvstm.com:443/diegodemenezes3156/diegodemenezes3156/chunklist_w2062410622.m3u8
-#EXTINF:0 type="stream" channelId="-1", Vale TV (Novo Hamburgo-RS)
-https://cdn.jmvstream.com:443/w/AVJ-11554/playlist/chunklist.m3u8
-#EXTINF:0 type="stream" channelId="-1", Xtreme TV (Camaquã-RS)
-https://stmv1.voxtvhd.com.br/xtremetv/xtremetv/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", Web TV Cine (Adamantina-SP)
 https://srv2.zcast.com.br/elzemar/elzemar/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV Juventude (Marechal Deodoro-AL)
@@ -161,16 +127,10 @@ https://stmv1.voxtvhd.com.br/radiotvtuba/radiotvtuba/playlist.m3u8
 https://5e837408ea907.streamlock.net:1936/tvci/tvci/chunklist_w985179741.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV das Artes (Embu-SP)
 https://59f2354c05961.streamlock.net:1443/tvdasartes/_definst_/tvdasartes/chunklist_w748664516.m3u8
-#EXTINF:0 type="stream" channelId="-1", TV Faap (São Paulo-SP)
-https://midia.faap.net:443/faaplatamlive-live/stream_720/chunklist_w1310550978.m3u8
-#EXTINF:0 type="stream" channelId="-1", TV Zoom (Nova Friburgo-RJ)
-https://cdn.jmvstream.com:443/w/LVW-9730/LVW9730_LmUwslM8jt/chunklist.m3u8
 #EXTINF:0 type="stream" channelId="-1", Zoom Music
 https://stmv5.samcast.com.br/zoommusic/zoommusic/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" logo="https://spaceks.net/sites/tvomindare.tv.br/images/logo/logo_638312003.png" background="https://spaceks .net/sites/tvomindare.tv.br/images/logo/logo_638312003.png", TV Estilo
 https://cdn.jmvstream.com:443/w/AVJ-10657/playlist/chunklist.m3u8
-#EXTINF:0 type="stream" channelId="-1", TV Tribuna/SBT (Vitória-ES)
-https://stream-01.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLqlSWElr_t1yaM5pMVD19hesEwMPq3AUKe5GxArTGDzK)/dm/3/x82oa41/s/live-3.m3u8#cell=lnyc
 #EXTINF:0 type="stream" channelId="-1", TV Serra Verde (Frecheirinha-CE)
 https://cdn.jmvstream.com:443/w/AVJ-10557/playlist/chunklist.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV Uruburetama (Uruburetama-CE)
