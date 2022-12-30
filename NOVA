@@ -1,4 +1,5 @@
 #EXTM3U
+
 #EXTINF:0 type="stream" channelId="-1",TV News ETC (Belo Horizonte-MG)
 https://video01.logicahost.com.br/nelio/nelio/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1",Oásis TV (Belo Horizonte-MG)
@@ -949,15 +950,15 @@ http://189.14.233.254:1935/WebTV/WebTV.stream/chunklist_w622944574.m3u8
 #EXTINF:0 type="stream" channelId="-1", Conexão TV (São João Nepomuceno-MG)
 https://5a57bda70564a.streamlock.net/conexaotv/conexaotv.sdp/chunklist-480p.m3u8
 #EXTINF:-1 tvg-id="CulturaPara.br" tvg-name="Cultura Pará" tvg-country="BR" tvg-language="" tvg-logo="https://i.imgur.com/5jPEI5c.png" group-title="",Cultura Pará (Belém-PA)
-http://str.portalcultura.com.br/funtelpa/tv_funtelpa/live.m3u8
+http://www.portalcultura.com.br/playerhtml/funtelpa/tv_funtelpa/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", Elemental Channel (São Paulo-SP)
-https://5d82644094cc0.streamlock.net/8116/8116/playlist.m3u8
+https://5d82644094cc0.streamlock.net:443/8116/8116/chunklist_w502432048.m3u8
 #EXTINF:0 type="stream" channelId="-1", Fala Litoral (Balneário Camboriú-SC)
 http://webtv.bitstreaming.info:1935/falalitoraltv/falalitoraltv/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", FCV/Rede  Minas (Muriaé - MG)
 https://59f2354c05961.streamlock.net:1443/redeatividade/_definst_/redeatividade/chunklist_w1847745068.m3u8
 #EXTINF:0 type="stream" channelId="-1", Fonte TV (Goiás-GO)
-https://59fb88a1b1108.streamlock.net:443/fonte/_definst_/fontetv/chunklist_w1132186427.m3u8
+https://59fb88a1b1108.streamlock.net:443/fonte/_definst_/fontetv/chunklist_w445652274.m3u8
 #EXTINF:0 type="stream" channelId="-1", Foz TV (Foz do Iguaçu-PR)
 https://videostreamingserver1.septecloud.com.br/hls_foztv/foztvaovivo.m3u8
 #EXTINF:0 type="stream" channelId="-1", Furg TV (Rio Grande-RS)
