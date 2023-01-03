@@ -2,17 +2,15 @@
 
 #EXTINF:0 type="stream" channelId="-1",TV News ETC (Belo Horizonte-MG)
 https://video01.logicahost.com.br/nelio/nelio/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1",Oásis TV (Belo Horizonte-MG)
-https://stmv5.samcast.com.br:443/oasistv/oasistv/chunklist_w455687708.m3u8
 #EXTINF:0 type="stream" channelId="-1",TV Leão 
 https://stmv1.liveplushd.com.br/chdtv/chdtv/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV Petrópolis (Petrpolis-RJ)
 https://video02.logicahost.com.br:443/tvpetropolis/tvpetropolis/chunklist_w162085564.m3u8
 #EXTINF:0 type="stream" channelId="-1", LassTV (Rio de Janeiro-RJ)
 https://tv02.zas.media:1936/lasstv/lasstv/chunklist_w440953170.m3u8
-#EXTINF:0 type="stream" channelId="-1", TV RBA/Band (BelÃ©m-PA)
+#EXTINF:0 type="stream" channelId="-1", TV RBA/Band (Belém-PA )
 https://5cf4a2c2512a2.streamlock.net:443/rbatv/rbatv/chunklist_w11775895.m3u8
-#EXTINF:0 type="stream" channelId="-1", TV RBA/TV Brasil (Rio do Sul - SC)
+#EXTINF:0 type="stream" channelId="-1", TV RBA/TV Brasil (Rio do Sul-SC)
 https://tv02.zas.media:1936/rbatv/rbatv/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV Avant (Registro-SP)
 https://video01.logicahost.com.br:443/tvavant/tvavant/chunklist_w1052419478.m3u8
@@ -24,13 +22,6 @@ https://cdn.jmvstream.com:443/w/LVW-8155/ngrp:LVW8155_41E1ciuCvO_all/chunklist_b
 https://stream-04.nyc.dailymotion.com/sec(IbeXB-fEZXft8Mu82uFOZVGgWWZvoPaDHMW42AJSQT6CWDUzxZll8TYRXtLcWx9L)/dm/3/x7txn7q/s/live-3.m3u8#cell=lnyc
 #EXTINF:0 type="stream" channelId="-1", AWTV
 https://ebocast.ebosystems.com.br:3070/live/awtvlive.m3u8
-#EXTINF:0 type="stream" channelId="-1", Rede Globo SP
-https://m3u9.ml/a2/hls1/bobosp.m3u8?mu3zAQc9HC3GbwJq=yLYiwh87rovmG_EfPjoRBA&3U1G7qaTxrPbalZnEx=1670971736
-#EXTINF:0 type="stream" channelId="-1", Yeeaah! TV 
-https://alanza.iptv2022.com:443/Yeeaah_TV/tracks-v1a1/mono.m3u8
-#EXTINF:0 type="stream" channelId="-1", Nova Manchete
-https://stmv1.srvsh.com.br/ivonildoferrera4617/ivonildoferrera4617/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1", TV Ibiapabana
 https://stmv1.duvoxtv.com.br:443/gamer/gamer/chunklist_w202730376.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV VelhaCap/TV Brasil WEB (SÃ£o CristÃ³vÃ£o-SE)
 https://stream-04.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLtMcGq4r0PB_jcmOF6xLI9gYMMacwNrVpYGUcrBAU619)/dm/3/x82pp99/d/live-3.m3u8#cell=lnyc
@@ -46,12 +37,6 @@ https://cdn.jmvstream.com:443/w/AVJ-10593/playlist/chunklist.m3u8
 https://cdn.jmvstream.com/w/AVJ-11554/playlist/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", Xtreme TV (CamaquÃ£-RS)
 https://stmv1.voxtvhd.com.br:443/xtremetv/xtremetv/chunklist_w480421107.m3u8
-#EXTINF:0 type="stream" channelId="-1", TV Faap (SÃ£o Paulo-SP)
-https://midia.faap.net:443/faaplatamlive-live/stream_720/chunklist_w1220914863.m3u8
-#EXTINF:0 type="stream" channelId="-1", TV Zoom (Nova Friburgo-RJ)
-https://cdn.jmvstream.com:443/w/LVW-9730/LVW9730_LmUwslM8jt/chunklist.m3u8
-#EXTINF:0 type="stream" channelId="-1", TV Tribuna/SBT (VitÃ³ria-ES)
-https://proxy-07.nyc.dailymotion.com/sec(IbTcRogFtkG5Xv5BOy6JoghOynHE6eXa0voZ8F8FOmUB3C7Qko7e7v_P3iwtm7d4cdI500pSwCpA41VKEeheeNNTKKcmANQoP27lTC6IAo4)/video/400/616/510616004_mp4_h264_aac_fhd.m3u8#cell=nyc
 #EXTINF:0 type="stream" channelId="-1", TV Serra Verde (Frecheirinha-CE)
 https://cdn.jmvstream.com/w/AVJ-10557/playlist/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV Cidade 10/TV Brasil WEB (Santana do Livramento-RS)
@@ -62,23 +47,15 @@ https://cdn.jmvstream.com:443/w/LVW-9375/LVW9375_6i0wPBCHYc/chunklist.m3u8
 http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-1.m3u8
 #EXTINF:0 type="stream" channelId="-1" logo="data:image/png;base64,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" background="data:image/png;base64,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", AWTV
 https://ebocast.ebosystems.com.br:3070/live/awtvlive.m3u8
-#EXTINF:0 type="stream" channelId="-1", Rede Globo SP
-https://m3u9.ml/a2/hls1/bobosp.m3u8?mu3zAQc9HC3GbwJq=yLYiwh87rovmG_EfPjoRBA&3U1G7qaTxrPbalZnEx=1670971736
-#EXTINF:0 type="stream" channelId="-1", Yeeaah! TV (
+#EXTINF:0 type="stream" channelId="-1", Yeeaah! TV 
 https://alanza.iptv2022.com:443/Yeeaah_TV/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1", Nova Manchete
 https://stmv1.srvsh.com.br/ivonildoferrera4617/ivonildoferrera4617/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV Ibiapabana
 https://stmv1.duvoxtv.com.br:443/gamer/gamer/chunklist_w202730376.m3u8
-#EXTINF:0 type="stream" channelId="-1", TV VelhaCap/TV Brasil WEB (SÃ£o CristÃ³vÃ£o-SE)
-https://stream-04.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLtMcGq4r0PB_jcmOF6xLI9gYMMacwNrVpYGUcrBAU619)/dm/3/x82pp99/d/live-3.m3u8#cell=lnyc
-#EXTINF:0 type="stream" channelId="-1", TV BalcÃ£o (Belo Horizonte-MG)
-https://cdn.jmvstream.com:443/w/AVJ-10760/playlist/chunklist.m3u8
-#EXTINF:0 type="stream" channelId="-1", TV NazarÃ© ( BelÃ©m-BA)
-https://fundacaonazare.com.br/tv-nazare
 #EXTINF:0 type="stream" channelId="-1", TV CandidÃ©s/TV Cultura (DivinÃ³polis-MG)
 https://cdn.jmvstream.com:443/w/LVW-8067/ngrp:LVW8067_ZffQjxn7UC_all/chunklist_b3235840.m3u8
-#EXTINF:0 type="stream" channelId="-1", TV Rabelo (SÃ£o Luis-MA)
+#EXTINF:0 type="stream" channelId="-1", TV Rabelo (São  Luis-MA)
 https://cdn.jmvstream.com:443/w/AVJ-10593/playlist/chunklist.m3u8
 #EXTINF:0 type="stream" channelId="-1", Vale TV (Novo Hamburgo-RS)
 https://cdn.jmvstream.com/w/AVJ-11554/playlist/playlist.m3u8
@@ -88,7 +65,7 @@ https://stmv1.voxtvhd.com.br:443/xtremetv/xtremetv/chunklist_w480421107.m3u8
 https://midia.faap.net:443/faaplatamlive-live/stream_720/chunklist_w1220914863.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV Zoom (Nova Friburgo-RJ)
 https://cdn.jmvstream.com:443/w/LVW-9730/LVW9730_LmUwslM8jt/chunklist.m3u8
-#EXTINF:0 type="stream" channelId="-1", TV Tribuna/SBT (VitÃ³ria-ES)
+#EXTINF:0 type="stream" channelId="-1", TV Tribuna/SBT (Vitoria-ES)
 https://proxy-07.nyc.dailymotion.com/sec(IbTcRogFtkG5Xv5BOy6JoghOynHE6eXa0voZ8F8FOmUB3C7Qko7e7v_P3iwtm7d4cdI500pSwCpA41VKEeheeNNTKKcmANQoP27lTC6IAo4)/video/400/616/510616004_mp4_h264_aac_fhd.m3u8#cell=nyc
 #EXTINF:0 type="stream" channelId="-1",TV Guanandi/Band MS
 https://stream-03.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLhOy5qZrlQeBo1y0vAe3Ctg4pGbPZdOpUg2hbnB6g42h)/dm/3/x82cxbb/d/live-0.m3u8#cell=lnyc
