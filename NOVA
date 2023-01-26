@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:0 type="stream" channelId="-1" TV Antena 10
+https://a10mais.com/aovivo
 #EXTINF:0 type="stream" channelId="-1",Pet Lovers TV (São Paulo-SP)
 https://acesso.ecast.site:3660/stream/play.m3u8
 #EXTINF:0 type="stream" channelId="-1",TV News ETC (Belo Horizonte-MG)
