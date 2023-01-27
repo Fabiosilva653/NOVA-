@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:0 type="stream" channelId="-1" PIX TV (Garopaba – SC)
+#EXTINF:0 type="stream" channelId="-1",PIX TV (Garopaba – SC)
 https://mpix05.tmwpix.com:6516/canais/pixtv.m3u8?token=7HvFdhC6lyw6ewCA-dqPIQ&amp;expires=1663865251
-#EXTINF:0 type="stream" channelId="-1" TV Antena 10
+#EXTINF:0 type="stream" channelId="-1",TV Antena 10
 https://video04.logicahost.com.br:443/a10mais02/smil:transcoder.smil/chunklist_w887947300_b2046000.m3u8
 #EXTINF:0 type="stream" channelId="-1",Pet Lovers TV (São Paulo-SP)
 https://acesso.ecast.site:3660/stream/play.m3u8
