@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:0 type="stream" channelId="-1",TV Aldeia (Itaocara-RJ)
+https://stmv1.samcast.com.br:443/giovane7843/giovane7843/chunklist_w917391782.m3u8
 #EXTINF:0 type="stream" channelId="-1",PIX TV (Garopaba – SC)
 https://mpix05.tmwpix.com:6516/canais/pixtv.m3u8?token=7HvFdhC6lyw6ewCA-dqPIQ&amp;expires=1663865251
 #EXTINF:0 type="stream" channelId="-1",TV Antena 10
