@@ -1,4 +1,70 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://i.imgur.com/f7rGOwn.png" group-title="Web TV",Guia TV/TV Brasil 2
+https://livefocamundo.com:8081/guiatv/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://i.imgur.com/p1vfTt4.png" group-title="Gospel",TV GideÃµes
+https://streaming01.zas.media/gideoes/programacao/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://i.imgur.com/eTGwY1g.png" group-title="Gospel",TV KairÃ³s
+https://stmv2.voxtvhd.com.br/kairosfm893/kairosfm893/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://i.imgur.com/5IC5kuO.png" group-title="Gospel",TV Feliz
+https://video01.logicahost.com.br/tvfeliz/tvfeliz/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://i.imgur.com/QqdFSOV.png" group-title="CatÃ³lico",TV Vianney
+https://5e837408ea907.streamlock.net:1936/paroquiavianney/paroquiavianney/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://i.imgur.com/9mZwtmt.png" group-title="ComunitÃ¡rio",TV RP
+https://5b7f3c45ab7c2.streamlock.net/8042/8042/playlist_DVR.m3u8
+#EXTINF:-1 tvg-id="TVBrasil.br" description="ProgramaÃ§Ã£o Cultura/TV Brasil"tvg-logo="https://i.imgur.com/sm5K1Ob.png" group-title="Governamental",TV Ceará
+https://cdn.jmvstream.com/w/AVJ-12940/playlist/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://i.imgur.com/ATxceuc.png" group-title="Abertos",TV8 Rondônia
+https://stmv2.samcast.com.br/jose8272/jose8272/playlist.m3u8
+#EXTINF:-1 tvg-id="RecordTV.br" description="ProgramaÃ§Ã£o RecordTV"  tvg-logo="https://i.imgur.com/V4DhYx7.png" group-title="Abertos",TV Tropical
+https://59f2354c05961.streamlock.net:1443/portaldatropical/_definst_/portaldatropical/playlist.m3u8
+#EXTINF:-1 tvg-id="TVParanaiba.br" tvg-logo="https://i.imgur.com/Z85PJOg.png" group-title="Abertos",TV Paranaíba/Rede Record
+https://app.paranaibaplay.com.br/mobile/tv/index.m3u8
+EXTINF:-1 tvg-id="ext" tvg-logo="https://i.imgur.com/0vOdhxK.png" group-title="Abertos",TV Tambaú
+https://cdn.jmvstream.com/w/LVW-10037/LVW10037_ZOoTW3hmOT/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://i.imgur.com/hdURhUy.png" group-title="Abertos",TV Tarobá
+https://cdn.jmvstream.com/w/LVW-8390/LVW8390_yxLZXwR4PU/playlist.m3u8
+#EXTINF:-1 tvg-id="RedeMassa.br" description="ProgramaÃ§Ã£o SBT" tvg-logo="https://i.imgur.com/dj3OKKB.png" group-title="Abertos",TV Naipi/Rede Massa/SBT
+https://cdn-cdn-naipi.ciclano.io:1443/cdn-naipi/cdn-naipi/playlist.m3u8
+#EXTINF:-1 tvg-id="SBTNacional.br" description="ProgramaÃ§Ã£o SBT" tvg-logo="https://i.imgur.com/oOhk9Gg.png" group-title="Abertos",TV Guajará
+https://livefocamundo.com:8081/tvguajaraonline2/index.m3u8
+#EXTINF:-1 tvg-id="TVBrasil.br" description="ProgramaÃ§Ã£o TV Brasil" tvg-logo="https://i.imgur.com/PIkCPwg.png" group-title="Abertos",TV Diversa
+https://tvdiversa.brasilstream.com.br/hls/tvdiversa/index.m3u8
+#EXTINF:-1 tvg-id="RedeTV.br" description="ProgramaÃ§Ã£o RedeTV!" tvg-logo="https://i.imgur.com/NMx2Cxc.png" group-title="Abertos",O Dia TV
+https://59e4b6c1beddc.streamlock.net/tvodia/tvodia/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://i.imgur.com/yGBFPRH.png" group-title="Abertos",NGT/Rede Brasil
+https://acesso.ecast.site:3922/live/redengtlive.m3u8
+#EXTINF:-1 tvg-id="RecordTV.br" description="ProgramaÃ§Ã£o RecordTV" tvg-logo="https://i.imgur.com/cBb5xM0.png" group-title="Abertos",NDTV CriciÃºma
+https://caikron.com.br:19360/criciuma/criciuma.m3u8
+#EXTINF:-1 tvg-id="RedeCNTRiodeJaneiro.br" tvg-logo="https://i.imgur.com/wS8kyvT.png" group-title="Abertos",CNT
+https://dd8umsy8yf96u.cloudfront.net/live/cnt-americana.m3u8
+#EXTINF:-1 tvg-id="RedeCNTRiodeJaneiro.br" tvg-logo="https://i.imgur.com/wS8kyvT.png" group-title="Abertos",CNT Bahia
+https://dd8umsy8yf96u.cloudfront.net/live/cnt-salvador.m3u8
+#EXTINF:-1 tvg-id="RedeCNTRiodeJaneiro.br" tvg-logo="https://i.imgur.com/wS8kyvT.png" group-title="Abertos",CNT BelÃ©m
+https://d1s664t39qub1o.cloudfront.net/live/cnt-belem.m3u8
+#EXTINF:-1 tvg-id="RedeCNTRiodeJaneiro.br" tvg-logo="https://i.imgur.com/wS8kyvT.png" group-title="Abertos",CNT CuiabÃ¡
+https://d1s664t39qub1o.cloudfront.net/live/cnt-cuiaba.m3u8
+#EXTINF:-1 tvg-id="RedeCNTRiodeJaneiro.br" tvg-logo="https://i.imgur.com/wS8kyvT.png" group-title="Abertos",CNT Curitiba
+https://dd8umsy8yf96u.cloudfront.net/live/cnt-curitiba.m3u8
+#EXTINF:-1 tvg-id="RedeCNTRiodeJaneiro.br" tvg-logo="https://i.imgur.com/wS8kyvT.png" group-title="Abertos",CNT Manaus
+https://d1s664t39qub1o.cloudfront.net/live/cnt-manaus.m3u8
+#EXTINF:-1 tvg-id="RedeCNTRiodeJaneiro.br" tvg-logo="https://i.imgur.com/wS8kyvT.png" group-title="Abertos",CNT Rio
+https://dd8umsy8yf96u.cloudfront.net/live/cnt-rio.m3u8
+#EXTINF:-1 tvg-id="RedeCNTRiodeJaneiro.br" tvg-logo="https://i.imgur.com/wS8kyvT.png" group-title="Abertos",CNT Rio Branco
+https://dd8umsy8yf96u.cloudfront.net/live/cnt-riobranco.m3u8
+#EXTINF:-1 tvg-id="RedeCNTRiodeJaneiro.br" tvg-logo="https://i.imgur.com/wS8kyvT.png" group-title="Abertos",CNT RS
+https://d1s664t39qub1o.cloudfront.net/live/cnt-caxias.m3u8
+#EXTINF:-1 tvg-id="RedeCNTRiodeJaneiro.br" tvg-logo="https://i.imgur.com/wS8kyvT.png" group-title="Abertos",CNT Tropical
+https://d1s664t39qub1o.cloudfront.net/live/cnt-londrina.m3u8
+#EXTINF:-1 tvg-id="BandSaoPaulo.br" tvg-logo="https://i.imgur.com/dal1lDK.png" group-title="Abertos",Band Mais
+https://enc1.proxy.tokplay.com.br/BAND-MAIS-HD/index.m3u8
+#EXTINF:-1 tvg-id="BandSaoPaulo.br" tvg-logo="https://i.imgur.com/DSIv6Is.png" group-title="Abertos",Band Minas
+http://evpp.mm.uol.com.br:1935/bandpracas/debatemg/playlist.m3u8
+#EXTINF:-1 tvg-id="RedeGlobo.br" description="ProgramaÃ§Ã£o TV Globo" tvg-logo="https://i.imgur.com/vVr5Bsg.png" group-title="Globo",TV Morena Campo Grande
+http://15.235.55.115:14106/
+#EXTINF:-1 tvg-id="RedeGlobo.br" description="ProgramaÃ§Ã£o TV Globo" tvg-logo="https://i.imgur.com/eUyzwYw.png" group-title="Globo",EPTV Campinas
+http://15.235.55.115:14104/
+#EXTINF:-1 tvg-id="TVBahia.br" description="ProgramaÃ§Ã£o TV Globo" tvg-logo="https://i.imgur.com/k4fl1wF.png" group-title="Globo",TV Bahia Salvador
+https://transcoder.proxy.tokplay.com.br:443/videos/REDEGLOBO/format720p_REDEGLOBO.m3u8
 #EXTINF:0 type="stream" channelId="-1",TV Aldeia (Itaocara-RJ)
 https://stmv1.samcast.com.br:443/giovane7843/giovane7843/chunklist_w917391782.m3u8
 #EXTINF:0 type="stream" channelId="-1",PIX TV (Garopaba – SC)
