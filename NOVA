@@ -1,5 +1,7 @@
 #EXTM3U
 
+#EXTINF:0 type="stream" channelId="-1",40º TV
+https://acesso.ecast.site:3125/stream/play.m3u8
 #EXTINF:0 type="stream" channelId="-1",Guia TV/TV Brasil 2
 https://livefocamundo.com:8081/guiatv/index.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-logo="https://i.imgur.com/p1vfTt4.png" group-title="",TV Gideões
