@@ -1,5 +1,6 @@
 #EXTM3U
-
+#EXTINF:0 type="stream" channelId="-1",Arcerte TV (Petrolina-PE)
+https://stmv1.paineltv.net:443/arcertetv/arcertetv/chunklist_w38164642.m3u8
 #EXTINF:0 type="stream" channelId="-1",40º TV
 https://acesso.ecast.site:3125/stream/play.m3u8
 #EXTINF:0 type="stream" channelId="-1",Guia TV/TV Brasil 2
