@@ -4,39 +4,39 @@
 https://acesso.ecast.site:3125/stream/play.m3u8
 #EXTINF:0 type="stream" channelId="-1",Guia TV/TV Brasil 2
 https://livefocamundo.com:8081/guiatv/index.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-logo="https://i.imgur.com/p1vfTt4.png" group-title="",TV Gideões
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://i.imgur.com/p1vfTt4.png" group-title="",TV Gideões (Camboriú-SC)
 https://streaming01.zas.media/gideoes/programacao/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-logo="https://i.imgur.com/eTGwY1g.png" group-title="",TV Kairós
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://i.imgur.com/eTGwY1g.png" group-title="",TV Kairós (Marabá-PA)
 https://stmv2.voxtvhd.com.br/kairosfm893/kairosfm893/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-logo="https://i.imgur.com/5IC5kuO.png" group-title="",TV Feliz
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://i.imgur.com/5IC5kuO.png" group-title="",TV Feliz (Natal-RN)
 https://video01.logicahost.com.br/tvfeliz/tvfeliz/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-logo="https://i.imgur.com/QqdFSOV.png" group-title="",TV Vianney
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://i.imgur.com/QqdFSOV.png" group-title="",TV Vianney ( Taboão da Serra-SP)
 https://5e837408ea907.streamlock.net:1936/paroquiavianney/paroquiavianney/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-logo="https://i.imgur.com/9mZwtmt.png" group-title="",TV RP
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://i.imgur.com/9mZwtmt.png" group-title="",TV RP (Ribeirão Preto-SP)
 https://5b7f3c45ab7c2.streamlock.net/8042/8042/playlist_DVR.m3u8
-#EXTINF:-1 tvg-id="TVBrasil.br" description="ProgramaÃ§Ã£o Cultura/TV Brasil"tvg-logo="https://i.imgur.com/sm5K1Ob.png" group-title="",TV Ceará
+#EXTINF:-1 tvg-id="TVBrasil.br" description="ProgramaÃ§Ã£o Cultura/TV Brasil"tvg-logo="https://i.imgur.com/sm5K1Ob.png" group-title="",TV Ceará (Fortaleza-CE)
 https://cdn.jmvstream.com/w/AVJ-12940/playlist/playlist.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-logo="https://i.imgur.com/ATxceuc.png" group-title="",TV8/AWTV 
 https://stmv2.samcast.com.br/jose8272/jose8272/playlist.m3u8
-#EXTINF:-1 tvg-id="RecordTV.br" description="ProgramaÃ§Ã£o RecordTV"  tvg-logo="https://i.imgur.com/V4DhYx7.png" group-title="",TV Tropical
+#EXTINF:-1 tvg-id="RecordTV.br" description="ProgramaÃ§Ã£o RecordTV"  tvg-logo="https://i.imgur.com/V4DhYx7.png" group-title="",TV Tropical/Rede Record (Natal-RN)
 https://59f2354c05961.streamlock.net:1443/portaldatropical/_definst_/portaldatropical/playlist.m3u8
-#EXTINF:-1 tvg-id="TVParanaiba.br" tvg-logo="https://i.imgur.com/Z85PJOg.png" group-title="",TV Paranaíba/Rede Record
+#EXTINF:-1 tvg-id="TVParanaiba.br" tvg-logo="https://i.imgur.com/Z85PJOg.png" group-title="",TV Paranaíba/Rede Record (Uberlândia-MG)
 https://app.paranaibaplay.com.br/mobile/tv/index.m3u8
-EXTINF:-1 tvg-id="ext" tvg-logo="https://i.imgur.com/0vOdhxK.png" group-title="",TV Tambaú
-https://cdn.jmvstream.com/w/LVW-10037/LVW10037_ZOoTW3hmOT/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-logo="https://i.imgur.com/hdURhUy.png" group-title="",TV Tarobá
+EXTINF:-1 tvg-id="ext" tvg-logo="https://i.imgur.com/0vOdhxK.png" group-title="",TV Tambaú/SBT (João Pessoa-PB)
+https://cdn.jmvstream.com:443/w/LVW-10037/LVW10037_ZOoTW3hmOT/chunklist.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://i.imgur.com/hdURhUy.png" group-title="",TV Tarobá/Band (Cascavel-PR)
 https://cdn.jmvstream.com/w/LVW-8390/LVW8390_yxLZXwR4PU/playlist.m3u8
-#EXTINF:-1 tvg-id="RedeMassa.br" description="ProgramaÃ§Ã£o SBT" tvg-logo="https://i.imgur.com/dj3OKKB.png" group-title="",TV Naipi/Rede Massa/SBT
+#EXTINF:-1 tvg-id="RedeMassa.br" description="ProgramaÃ§Ã£o SBT" tvg-logo="https://i.imgur.com/dj3OKKB.png" group-title="",TV Naipi/Rede Massa/SBT (Foz do Iguaçu-PR)
 https://cdn-cdn-naipi.ciclano.io:1443/cdn-naipi/cdn-naipi/playlist.m3u8
-#EXTINF:-1 tvg-id="SBTNacional.br" description="ProgramaÃ§Ã£o SBT" tvg-logo="https://i.imgur.com/oOhk9Gg.png" group-title="",TV Guajará
+#EXTINF:-1 tvg-id="SBTNacional.br" description="ProgramaÃ§Ã£o SBT" tvg-logo="https://i.imgur.com/oOhk9Gg.png" group-title="",TV Guajará/SBT
 https://livefocamundo.com:8081/tvguajaraonline2/index.m3u8
-#EXTINF:-1 tvg-id="TVBrasil.br" description="ProgramaÃ§Ã£o TV Brasil" tvg-logo="https://i.imgur.com/PIkCPwg.png" group-title="",TV Diversa
+#EXTINF:-1 tvg-id="TVBrasil.br" description="ProgramaÃ§Ã£o TV Brasil" tvg-logo="https://i.imgur.com/PIkCPwg.png" group-title="",TV Diversa/TV Brasil (Barroso-MG)
 https://tvdiversa.brasilstream.com.br/hls/tvdiversa/index.m3u8
-#EXTINF:-1 tvg-id="RedeTV.br" description="ProgramaÃ§Ã£o RedeTV!" tvg-logo="https://i.imgur.com/NMx2Cxc.png" group-title="",O Dia TV
+#EXTINF:-1 tvg-id="RedeTV.br" description="ProgramaÃ§Ã£o RedeTV!" tvg-logo="https://i.imgur.com/NMx2Cxc.png" group-title="",O Dia TV/RedeTV (Teresina-PI)
 https://59e4b6c1beddc.streamlock.net/tvodia/tvodia/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-logo="https://i.imgur.com/yGBFPRH.png" group-title="",NGT/Rede Brasil
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://i.imgur.com/yGBFPRH.png" group-title="",NGT/Rede Brasil (Rio de Janeiro-RJ)
 https://acesso.ecast.site:3922/live/redengtlive.m3u8
-#EXTINF:-1 tvg-id="RecordTV.br" description="ProgramaÃ§Ã£o RecordTV" tvg-logo="https://i.imgur.com/cBb5xM0.png" group-title="",NDTV Criciúma
+#EXTINF:-1 tvg-id="RecordTV.br" description="ProgramaÃ§Ã£o RecordTV" tvg-logo="https://i.imgur.com/cBb5xM0.png" group-title="",NDTV/Rede Record (Criciúma-SC)
 https://caikron.com.br:19360/criciuma/criciuma.m3u8
 #EXTINF:-1 tvg-id="RedeCNTRiodeJaneiro.br" tvg-logo="https://i.imgur.com/wS8kyvT.png" group-title="",CNT
 https://dd8umsy8yf96u.cloudfront.net/live/cnt-americana.m3u8
@@ -54,33 +54,34 @@ https://d1s664t39qub1o.cloudfront.net/live/cnt-manaus.m3u8
 https://dd8umsy8yf96u.cloudfront.net/live/cnt-rio.m3u8
 #EXTINF:-1 tvg-id="RedeCNTRiodeJaneiro.br" tvg-logo="https://i.imgur.com/wS8kyvT.png" group-title="",CNT Rio Branco
 https://dd8umsy8yf96u.cloudfront.net/live/cnt-riobranco.m3u8
-#EXTINF:-1 tvg-id="RedeCNTRiodeJaneiro.br" tvg-logo="https://i.imgur.com/wS8kyvT.png" group-title="",CNT RS
+#EXTINF:-1 tvg-id="RedeCNTRiodeJaneiro.br" tvg-logo="https://i.imgur.com/wS8kyvT.png" group-title="",CNT (Caxias do Sul-RS)
 https://d1s664t39qub1o.cloudfront.net/live/cnt-caxias.m3u8
 #EXTINF:-1 tvg-id="RedeCNTRiodeJaneiro.br" tvg-logo="https://i.imgur.com/wS8kyvT.png" group-title="",CNT Tropical
 https://d1s664t39qub1o.cloudfront.net/live/cnt-londrina.m3u8
-#EXTINF:-1 tvg-id="BandSaoPaulo.br" tvg-logo="https://i.imgur.com/dal1lDK.png" group-title="",Band Mais
+#EXTINF:-1 tvg-id="BandSaoPaulo.br" tvg-logo="https://i.imgur.com/dal1lDK.png" group-title="",Band Mais (Campinas-SP)
 https://enc1.proxy.tokplay.com.br/BAND-MAIS-HD/index.m3u8
-#EXTINF:-1 tvg-id="BandSaoPaulo.br" tvg-logo="https://i.imgur.com/DSIv6Is.png" group-title="",Band Minas
+#EXTINF:-1 tvg-id="BandSaoPaulo.br" tvg-logo="https://i.imgur.com/DSIv6Is.png" group-title="",Band Minas (Belo Horizonte-MG)
 http://evpp.mm.uol.com.br:1935/bandpracas/debatemg/playlist.m3u8
-#EXTINF:-1 tvg-id="RedeGlobo.br" description="ProgramaÃ§Ã£o TV Globo" tvg-logo="https://i.imgur.com/vVr5Bsg.png" group-title="",TV Morena Campo Grande
+#EXTINF:-1 tvg-id="RedeGlobo.br" description="ProgramaÃ§Ã£o TV Globo" tvg-logo="https://i.imgur.com/vVr5Bsg.png" group-title="",TV Morena/Rede Globo (Campo Grande-MS)
 http://15.235.55.115:14106/
-#EXTINF:-1 tvg-id="RedeGlobo.br" description="ProgramaÃ§Ã£o TV Globo" tvg-logo="https://i.imgur.com/eUyzwYw.png" group-title="",EPTV Campinas
+#EXTINF:-1 tvg-id="RedeGlobo.br" description="ProgramaÃ§Ã£o TV Globo" tvg-logo="https://i.imgur.com/eUyzwYw.png" group-title="",EPTV/ Rede Globo (Campinas-SP)
 http://15.235.55.115:14104/
-#EXTINF:-1 tvg-id="TVBahia.br" description="ProgramaÃ§Ã£o TV Globo" tvg-logo="https://i.imgur.com/k4fl1wF.png" group-title="",TV Bahia Salvador
+#EXTINF:-1 tvg-id="TVBahia.br" description="ProgramaÃ§Ã£o TV Globo" tvg-logo="https://i.imgur.com/k4fl1wF.png" group-title="",TV Bahia/Rede Globo (Salvador-BA)
 https://transcoder.proxy.tokplay.com.br:443/videos/REDEGLOBO/format720p_REDEGLOBO.m3u8
 #EXTINF:0 type="stream" channelId="-1",TV Aldeia (Itaocara-RJ)
 https://stmv1.samcast.com.br:443/giovane7843/giovane7843/chunklist_w917391782.m3u8
-#EXTINF:0 type="stream" channelId="-1",PIX TV (Garopaba – SC)
+#EXTINF:0 type="stream" channelId="-1",PIX TV (Garopaba-SC)
 https://mpix05.tmwpix.com:6516/canais/pixtv.m3u8?token=7HvFdhC6lyw6ewCA-dqPIQ&amp;expires=1663865251
-#EXTINF:0 type="stream" channelId="-1",TV Antena 10
-https://video04.logicahost.com.br:443/a10mais02/smil:transcoder.smil/chunklist_w887947300_b2046000.m3u8
+#EXTINF:0 type="stream" channelId="-1",TV Antena 10/Rede Record (Teresina-PI)
+https://video04.logicahost.com.br:443/a10mais02/smil:transcoder.smil/chunklist_w96502193_b1396000.m3u8
+l/chunklist_w887947300_b2046000.m3u8
 #EXTINF:0 type="stream" channelId="-1",Pet Lovers TV (São Paulo-SP)
 https://acesso.ecast.site:3660/stream/play.m3u8
 #EXTINF:0 type="stream" channelId="-1",TV News ETC (Belo Horizonte-MG)
 https://video01.logicahost.com.br/nelio/nelio/playlist.m3u8
 EXTINF:-1 tvg-id="ext" tvg-logo="https://i.imgur.com/f7rGOwn.png" group-title="Web TV",Guia TV
 https://livefocamundo.com:8081/guiatv/index.m3u8
-TV Leão 
+#EXTINF:0 type="stream" channelId="-1",TV Leão 
 https://stmv1.liveplushd.com.br/chdtv/chdtv/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV Petrópolis (Petrpolis-RJ)
 https://video02.logicahost.com.br:443/tvpetropolis/tvpetropolis/chunklist_w162085564.m3u8
@@ -129,7 +130,7 @@ https://cdn.jmvstream.com:443/w/AVJ-10593/playlist/chunklist.m3u8
 https://cdn.jmvstream.com/w/AVJ-11554/playlist/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", Xtreme TV (Camaquã-RS)
 https://stmv1.voxtvhd.com.br:443/xtremetv/xtremetv/chunklist_w480421107.m3u8
-#EXTINF:0 type="stream" channelId="-1", TV Faap (São  Paulo-SP)
+#EXTINF:0 type="stream" channelId="-1", TV Faap (São Paulo-SP)
 https://midia.faap.net:443/faaplatamlive-live/stream_720/chunklist_w1220914863.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV Zoom (Nova Friburgo-RJ)
 https://cdn.jmvstream.com:443/w/LVW-9730/LVW9730_LmUwslM8jt/chunklist.m3u8
@@ -289,8 +290,6 @@ https://srv3.zcast.com.br/leonardo2328/leonardo2328/playlist.m3u8
 https://5a0c3936c25c8.streamlock.net/tvcentrosultvstation/tvcentrosultvstation/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", Web Tv Centro Sul (Cachoeira do Sul-RS)
 https://srv2.zcast.com.br:443/luiz4361/luiz4361/chunklist_w446658897.m3u8
-#EXTINF:0 type="stream" channelId="-1", TV Estação 26 (Brasília-DF)
-
 #EXTINF:0 type="stream" channelId="-1", TV em Foco Dos Vales (Sabinópolis-MG)
 https://5ad482a77183d.streamlock.net/pedroavilacampegmail.com/pedroavilacampegmail.com/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV Osório News (Osório-RS)
@@ -333,7 +332,6 @@ https://cdn.jmvstream.com:443/w/AVJ-11315/playlist/chunklist.m3u8
 https://streaming03.zas.media:1936/unimidia/unimidia/chunklist_w988070011.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-logo="https://i.imgur.com/V7MbBTq.png" group-title="",TV Altiora (Bragança Paulista-SP)
 https://video01.kshost.com.br:4443/fundacao4576/fundacao4576/playlist.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/jbCBogB.png" group-title="",TV da Gente
 https://stmv1.srvstm.com/jose3149/jose3149/playlist.m3u8
 #EXTINF:-1 tvg-id="RedeSuper.br" tvg-logo="https://i.imgur.com/dSBVerQ.png" group-title="",Rede Super (Belo Horizonte-MG)
@@ -342,7 +340,6 @@ http://187.85.237.8:8825/ipvt_001
 https://cdn.jmvstream.com/w/LVW-10024/ngrp:LVW10024_H3QLdAY6kx_all/playlist.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-logo="https://i.imgur.com/2cXaFN0.png" group-title="",Rede Mosaico
 http://cdn.connectbr.com.br/Mosaico/index.m3u8
-
 #EXTINF:-1 tvg-id="ext" tvg-logo="https://i.imgur.com/5KbMwQm.png" group-title="",Inspire
 http://cdn.connectbr.com.br/Inspire/index.m3u8
 #EXTINF:-1 tvg-id="RedeVida.br" tvg-logo="https://i.imgur.com/W3oI8p3.png" group-title="",Rede Vida (São José do Rio Preto-SP)
@@ -813,8 +810,6 @@ https://livefocamundo.com:8081/tvportal/index.m3u8
 https://novo.bitstreaming.info:1936/8066/8066/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV Estação 26 (Brasília-DF)
 https://novo.bitstreaming.info:1936/redeestacao26tv/redeestacao26tv/chunklist_w1800149441.m3u8
-#EXTINF:0 type="stream" channelId="-1", TV Gideões (Camboriú-SC)
-https://streaming01.zas.media:443/gideoes/tv.smil/chunklist_w292602504_b1396000.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV Guarapari (Guarapari-ES)
 https://video.wellhost.com.br:443/tvguarapari/tvguarapari/chunklist_w456575217.m3u8
 #EXTINF:0 type="stream" channelId="-1", TVU ABC (São Paulo-SP)
