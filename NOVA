@@ -82,7 +82,7 @@ https://acesso.ecast.site:3660/stream/play.m3u8
 https://video01.logicahost.com.br/nelio/nelio/playlist.m3u8
 EXTINF:-1 tvg-id="ext" tvg-logo="https://i.imgur.com/f7rGOwn.png" group-title="Web TV",Guia TV
 https://livefocamundo.com:8081/guiatv/index.m3u8
-#EXTINF:0 type="stream" channelId="-1",TV Leão 
+#EXTINF:0 type="stream" channelId="-1"CDH TV
 https://stmv1.liveplushd.com.br/chdtv/chdtv/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV Petrópolis (Petrpolis-RJ)
 https://video02.logicahost.com.br:443/tvpetropolis/tvpetropolis/chunklist_w162085564.m3u8
@@ -126,7 +126,7 @@ https://stmv1.duvoxtv.com.br:443/gamer/gamer/chunklist_w202730376.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV Candidés/TV Cultura (Divinolis-MG)
 https://cdn.jmvstream.com:443/w/LVW-8067/ngrp:LVW8067_ZffQjxn7UC_all/chunklist_b3235840.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV Rabelo (São Luis-MA)
-https://cdn.jmvstream.com:443/w/AVJ-10593/playlist/chunklist.m3u8
+https://cdn.jmvstream.com/w/AVJ-12938/playlist/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", Vale TV (Novo Hamburgo-RS)
 https://cdn.jmvstream.com/w/AVJ-11554/playlist/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", Xtreme TV (Camaquã-RS)
