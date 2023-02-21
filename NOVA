@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:0 type="stream" channelId="-1",TV Conquista/Rede Record (Lucas do Rio Verde–MT)
+http://tvconquistalrv.duckdns.org:8080/hls/tvconquistalrv.m3u8
 #EXTINF:0 type="stream" channelId="-1",TV Diversidade
 https://cdn.jmvstream.com:443/w/AVJ-12928/playlist/chunklist.m3u8
 #EXTINF:0 type="stream" channelId="-1",Rede UTV Brasil (Descalvado-SP)
