@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:0 type="stream" channelId="-1",TV Templo
+https://664398c.ha.azioncdn.net/primary/tvtemplo_480p.sdp/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1",TV Conquista/Rede Record (Lucas do Rio Verde–MT)
 http://tvconquistalrv.duckdns.org:8080/hls/tvconquistalrv.m3u8
 #EXTINF:0 type="stream" channelId="-1",TV Diversidade
