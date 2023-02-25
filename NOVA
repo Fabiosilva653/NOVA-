@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:0 type="stream" channelId="-1",TV Cujubim/TV Evangelizar  (Cujubim-RO)
+https://livefocamundo.com:8081/sictvcujubimcanal18/index.m3u8
 #EXTINF:0 type="stream" channelId="-1",Geekdot TV
 https://geekdot.live/ao-vivo/
 #EXTINF:0 type="stream" channelId="-1",TV Templo
