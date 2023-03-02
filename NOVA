@@ -1,6 +1,7 @@
 #EXTM3U
-#EXTINF:0 type="stream" channelId="-1",Cassica
-http://gamistra.ddns.net:8554/live/spain-xui/dACAgD9C2amf/10478.m3u8 #EXTINF:-1,ES| CLASSICA 
+
+#EXTINF:0 type="stream" channelId="-1",Play TV
+https://live.mediastreaming.com.br:443/playtvhd/playtv.stream/chunks.m3u8
 #EXTINF:0 type="stream" channelId="-1",TV Cujubim/TV Evangelizar  (Cujubim-RO)
 https://livefocamundo.com:8081/sictvcujubimcanal18/index.m3u8
 #EXTINF:0 type="stream" channelId="-1",Geekdot TV
