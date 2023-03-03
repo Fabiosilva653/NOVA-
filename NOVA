@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:0 type="stream" channelId="-1",RIT
+http://boxtv.uniredes.com.br:80/rafael/rafael/70
 #EXTINF:0 type="stream" channelId="-1",TV Jovem Hits (Uruguaiana-RS)
 https://video01.kshost.com.br:4443/joao9563/joao9563/chunklist_w327191878.m3u8
 #EXTINF:0 type="stream" channelId="-1",TV Show de Bola (Constantina-RS)
