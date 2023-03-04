@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:0 type="stream" channelId="-1",Tv El-Shadai (Salvador-BA)
+https://stmv1.voxtvhd.com.br/8000/8000/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1",Rede Ipitanga (Lauro de Freitas-BA)
 https://video01.logicahost.com.br/redeipitangatv/redeipitangatv/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1",TV Lagoa Azul (Gandu-BA)
