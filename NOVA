@@ -1,4 +1,14 @@
 #EXTM3U
+#EXTINF:0 type="stream" channelId="-1",TV Imprensa (São José dos Campos-SP)
+https://tv02.zas.media:1936/imprensa/imprensa/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1",TV Guetto (São Paulo-SP)
+https://srv1.zcast.com.br/cristiano1178/cristiano1178/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1",TV Entre Amigos (Ribeirão Preto-SP)
+https://stmv1.srvif.com/igreja/igreja/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1",Guaranta TV (Guarantã-SP)
+https://stmv1.samcast.com.br:443/guarantaradiotv/guarantaradiotv/chunklist_w119050643.m3u8
+#EXTINF:0 type="stream" channelId="-1",TVC (Bauru-SP)
+https://59f2354c05961.streamlock.net:1443/tvbauru/_definst_/tvbauru/chunklist_w1268371445.m3u8
 #EXTINF:0 type="stream" channelId="-1",Poléia (Palestina-SP)
 https://stmv1.samcast.com.br/hadailtonjose5865/hadailtonjose5865/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1",Favorita TV (Caçapava-SP)
