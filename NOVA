@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:0 type="stream" channelId="-1",Poléia (Palestina-SP)
+https://stmv1.samcast.com.br/hadailtonjose5865/hadailtonjose5865/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1",Favorita TV (Caçapava-SP)
+https://video01.kshost.com.br:4443/arnaldo5149/arnaldo5149/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1",Eon TV (Campinas-SP)
 https://tv02.zas.media:1936/tveon/tveon/chunklist_w1084349111.m3u8
 #EXTINF:0 type="stream" channelId="-1",Tv El-Shadai (Salvador-BA)
