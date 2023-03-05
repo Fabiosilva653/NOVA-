@@ -36,7 +36,7 @@ https://live.mediastreaming.com.br:443/playtvhd/playtv.stream/chunks.m3u8
 #EXTINF:0 type="stream" channelId="-1",TV Cujubim/TV Evangelizar  (Cujubim-RO)
 https://livefocamundo.com:8081/sictvcujubimcanal18/index.m3u8
 #EXTINF:0 type="stream" channelId="-1",Geekdot TV
-https://geekdot.live/ao-vivo/
+https://stream.ichibantv.ga:3764/stream/play.m3u8
 #EXTINF:0 type="stream" channelId="-1",TV Templo (São Paulo-SP)
 https://664398c.ha.azioncdn.net/primary/tvtemplo_480p.sdp/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1",TV Conquista/Rede Record (Lucas do Rio Verde–MT)
