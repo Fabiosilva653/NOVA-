@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:0 type="stream" channelId="-1",Rede Tv (Abaetuba-PA)
+https://cdn-leonildo-11824.ciclano.io:1443/leonildo-11824/leonildo-11824/chunklist_w559330704.m3u8
 #EXTINF:0 type="stream" channelId="-1",TV Assembléia Maranhão 
 https://www.al.ma.leg.br/tv/
 #EXTINF:0 type="stream" channelId="-1",TV Imprensa (São José dos Campos-SP)
