@@ -668,7 +668,7 @@ https://stmv1.srvif.com/washington/washington/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV Liberdade
 https://srv1.paineldevideo.com/liberdaderadioetv/liberdaderadioetv/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", Looading (São Paulo-SP)
-https://stmv.video.expressolider.com.br/loadingtv/loadingtv/playlist.m3u8
+https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
 #EXTINF: 0 type = "stream" channelId = "- 1", TV Assembleia Alagoas (Maceió-AL)
 https://5c483b9d1019c.streamlock.net/staffvideotv/staffvideotv/playlist.m3u8
 #EXTINF: 0 type = "stream" channelId = "- 1", TV Assembleia Paraíba ((João Pessoa-PB)
