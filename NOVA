@@ -9,7 +9,7 @@ https://5b7f3c45ab7c2.streamlock.net:443/ecotvabc/ecotvabc/chunklist_w500297731.
 #EXTINF:0 type="stream" channelId="-1",Rede Tv (Abaetuba-PA)
 https://cdn-leonildo-11824.ciclano.io:1443/leonildo-11824/leonildo-11824/chunklist_w559330704.m3u8
 #EXTINF:0 type="stream" channelId="-1",TV Assembléia Maranhão 
-https://www.al.ma.leg.br/tv/
+https://tvonline.al.ma.leg.br:8443/live2/livestream.m3u8
 #EXTINF:0 type="stream" channelId="-1",TV Imprensa (São José dos Campos-SP)
 https://tv02.zas.media:1936/imprensa/imprensa/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1",TV Guetto (São Paulo-SP)
