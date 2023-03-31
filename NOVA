@@ -589,9 +589,9 @@ https://alanza.iptv2022.com/RSCTV_Brasil/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV Brasil Hits (Cascavel-PR)
 https://video01.logicahost.com.br/brasilhits/brasilhits/chunklist_w1407789719.m3u8
 #EXTINF:0 type="stream" channelId="-1", TVC Panorama/TV Cultura (Balneário Camboriú-SC)
-https://streaming03.zas.media:1936/panorama/panorama/playlist.m3u8
+https://tv02.zas.media:1936/panorama/panorama/chunklist_w369211686.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV Paraense/SBT (Castanhal-PA)
-https://streaming.portaltvparaense.com.br/rtp_live/index.m3u8
+https://streaming.portaltvparaense.com.br/hls/rtp.m3u8
 #EXTINF:0 type="stream" channelId="-1", Multi Rio
 http://187.111.97.45:1935/webtv/itluM4819Rio/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", GLN TV
@@ -629,15 +629,15 @@ https://alanza.iptv2022.com:443/CLC/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV Horizonte (Belo Horizonte-MG)
 https://alanza.iptv2022.com:443/TV_Educar/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1", Caraguá TV (Caraguatatuba-SP)
-https://cdn.jmvstream.com/w/AVJ-9779/playlist/chunklist.m3u8
+https://cdn.jmvstream.com:443/w/AVJ-13048/playlist/chunklist.m3u8
 #EXTINF:0 type="stream" channelId="-1", Cariri TV (Boqueirão-PB)
 https://video01.logicahost.com.br/cariritv/cariritv/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", Central TV (Curitiba-PR)
-https://serv1.redecentraltv.videovox.pw:443/serv1-redecentraltv/serv1-redecentraltv/chunklist_w1283653452.m3u8
+https://tv02.zas.media:1936/centraltv/centraltv/chunklist_w1399118837.m3u8
 #EXTINF:0 type="stream" channelId="-1", Polidoro TV/TV Evangelizar (São Paulo-SP)
 https://alanza.iptv2022.com/TV_TEEN_NET_RIO/index.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV Cognópolis (Foz do Iguaçu-PR
-https://59f1cbe63db89.streamlock.net:1443/tvcognopolis/_definst_/tvcognopolis/playlist.m3u8
+https://video04.logicahost.com.br/tvconsciencia/tvconsciencia/chunklist_w419870964.m3u8
 #EXTINF:0 type="stream" channelId="-1", Despertar TV
 https://tv.domustelecom.com.br/media/n/BZiZode5y2GXndi0otaZ/a/playlist.m3u8?ch=BZiZode5y2GXndi0otaZ&t=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2NDQxOTk4OTMsInN1YiI6Im1haW4ub3JnIzE2MTIwMDgxOTUiLCJpYXQiOjE2NDQxODU0OTN9.WLnUIJxrKtMkMpPuvjrYNcmLtGXYNMKu9Ws_eNhBJcI
 #EXTINF:0 type="stream" channelId="-1", ESA TV
