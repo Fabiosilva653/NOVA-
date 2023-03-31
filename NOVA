@@ -647,25 +647,25 @@ https://hls.brasilstream.com.br/live/redetv/redetv/index.m3u8?token=737105651617
 #EXTINF:0 type="stream" channelId="-1", Deus Vivo TV
 https://stmv1.srvif.com/antoniomarcosde5801/antoniomarcosde5801/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV Black Sampa
-https://video02.kshost.com.br/cesar9428/cesar9428/playlist.m3u8?t=1641823222
-#EXTINF:0 type="stream" channelId="-1", TV Arapuan/RedeTV
-https://5b7f3c45ab7c2.streamlock.net/tvarapuan/tvarapuan/playlist.m3u8
+https://stmv1.samcast.com.br:443/thiago8769/thiago8769/chunklist_w148320196.m3u8
+#EXTINF:0 type="stream" channelId="-1", TV Arapuan/RedeTV PB (João Pessoa-PB)
+https://5b7f3c45ab7c2.streamlock.net:443/arapuan/ngrp:arapuan_all/chunklist_w896217063_b2769557.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/4fsI8pJ.png" group-title="", PPZ TV
 https://5c483b9d1019c.streamlock.net/8058/8058/chunklist_w1002170053.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/5aKFdDR.png" group-title="", Allegro TV
-https://livefocamundo.com:8081/allegrowebtv/index.m3u8
+https://video05.logicahost.com.br/allegrowebtv/allegrowebtv/chunklist_w618551602.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/5qUBxaq.png" group-title="", Araruna TV(PB)
 https://video01.logicahost.com.br/ararunatv/ararunatv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/varzeagrande.png" group-title="",TV Várzea Grande/Rede Brasil (MT)
-https://video02.kshost.com.br/adauton7191/adauton7191/playlist.m3u8
+https://video01.kshost.com.br:4443/adauton7191/adauton7191/chunklist_w212521326.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/animetv.png" group-title="", Anime TV
 https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", Nova TV Vale (Guaratinguetá-SP)
-https://5b7f3c45ab7c2.streamlock.net:443/8016/8016/playlist.m3u8?DVR
+https://stmv7.samcast.com.br:443/alexandreantoniodasilva9954/alexandreantoniodasilva9954/chunklist_w1713865020.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV Legislativa (Blumenau-SC)
 https://streaming.camarablu.sc.gov.br:8080/hls/cmb_360/index.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV Liberdade (Bagé-RS)
-https://video02.kshost.com.br/eberson8801/eberson8801/playlist.m3u8?t=1639171470
+https://video01.kshost.com.br:4443/eberson8801/eberson8801/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV Liberdade
 https://stmv1.srvif.com/washington/washington/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV Liberdade
