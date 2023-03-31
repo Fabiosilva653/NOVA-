@@ -687,11 +687,11 @@ https://cdn-diariosm.ciclano.io:1443/diariosm/diariosm/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV Flórida
 https://srv1.zcast.com.br/tvflorida/tvflorida/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV Grão Pará/TV Gazeta (Belém-PA)
-https://video01.kshost.com.br/moises3834/moises3834/playlist.m3u8?t=1636833508
+https://video01.kshost.com.br:4443/moises3834/moises3834/chunklist_w720710150.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV Imaculada (Campo Grande-MS)
 https://caikron.com.br:19360/tvmi/tvmi.m3u8
-#EXTINF:0 type="stream" channelId="-1", UniTV/TV Cultura (Tubarão - SC)
-https://hls.brasilstream.com.br/live/sitetv/sitetv/index.m3u8?token=6676632140763981000
+#EXTINF:0 type="stream" channelId="-1", Unisul TV/TV Cultura (Tubarão-SC)
+https://sitetv.brasilstream.com.br/hls/sitetv/index.m3u8
 #EXTINF:0 type="stream" channelId="-1", Rede Universo (Vespasiano - MG)
 https://srv1.zcast.com.br:443/tvcanal1/tvcanal1/chunklist_w1115448139.m3u8
 #EXTINF:0 type="stream" channelId="-1", RCT/ComBrasil (Canoas-RS)
