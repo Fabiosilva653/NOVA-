@@ -1154,7 +1154,7 @@ https://live.tcm10.com.br/tcm10hd/stream.m3u8
 #EXTINF:0 type="stream" channelId="-1", Rede TV Mais (Cachoeiras de Macacu-RJ)
 https://novo.bitstreaming.info:1936/8010/8010/chunklist_w299019408.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV Osasco/Com Brasil (Osasco-SP)
-https://596639ebdd89b.streamlock.net:443/8074/8074/chunklist_w396066601.m3u8
+https://d345v2w40cj7l1.cloudfront.net/out/v1/8b0e43a6e6b44c80b82dfd8d51fc4f28/index_video_7_0_init.mp4?m=1674573346
 #EXTINF:0 type="stream" channelId="-1", TV Mar (Maceió-AL)
 https://virtues.es:1936/tvmar/tvmar/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV Destaque Nacional (Osasco-SP)
@@ -1162,13 +1162,13 @@ https://novo.bitstreaming.info:1936/tvdestaquenacional/tvdestaquenacional/chunkl
 #EXTINF:0 type="stream" channelId="-1", TV Nova Paraiba (Santa Rita-PB)
 https://srv4.zcast.com.br/tvnovaparaiba/tvnovaparaiba/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", RDC (Porto Alegre-RS)
-https://596639ebdd89b.streamlock.net:443/datavideo01/datavideo01/chunklist_w1603770413.m3u8
+https://br5093.streamingdevideo.com.br:443/datavideo01/datavideo01/chunklist_w28912180.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV Jaguar (Limoeiro do Norte-CE)
 https://cdn.jmvstream.com:443/w/LVW-8213/LVW8213_6Uc30uEIC7/chunklist.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV Camara Jacareí -SP
 http://179.109.16.5:1935/tvcamarajacarei/aovivo/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1", TV Camara Campinas-SP
-https://5cf4a2c2512a2.streamlock.net/tvcamara/tvcamara/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", TV Camara Campinas-SP)
+https://cdn.jmvstream.com/w/LVW-11323/LVW11323_80V4IYa182/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", Tv Tremembé (Itarema-CE)
 https://5e36c064a2f6a.streamlock.net:1936/8380/8380/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV Santa Maria (Santa Maria-RS)
@@ -1176,7 +1176,7 @@ https://cdn-tvsantamaria.ciclano.io:1443/tvsantamaria/tvsantamaria/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", BMTV (Goiania-GO)
 https://srv5.zcast.com.br/bmtv/bmtv/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV Vale do Uruará (Uruara-PA)
-https://srv3.zcast.com.br/valeradiowebtv/valeradiowebtv/playlist.m3u8
+https://stmv1.paineltv.net:443/valeradiowebtv/valeradiowebtv/chunklist_w1898674203.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV Nazarena (Nazaré-BA)
 https://stmv1.srvif.com/tvnaza/tvnaza/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1",Rede Ipitanga (Lauro de Freitas-BA)
@@ -1184,7 +1184,7 @@ https://video01.logicahost.com.br:443/redeipitangatv/redeipitangatv/chunklist_w1
 #EXTINF:0 type="stream" channelId="-1", Canal TV Rio  (Rio de Janeiro-RJ)
 https://59f2354c05961.streamlock.net:1443/canaltvrio/_definst_/canaltvrio.smil/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", Rede Família (Campinas-SP)
-https://5a1c76baf08c0.streamlock.net:443/familia/smil:familia.smil/chunklist_b1628000.m3u8
+https://5a1c76baf08c0.streamlock.net:443/familia/smil:familia.smil/chunklist_b2270208.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV União (Brasilia-DF)
 https://596639ebdd89b.streamlock.net:443/tvuniao/tvuniao/chunklist_w681178787.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV Cidadã (Maceió-AL)
