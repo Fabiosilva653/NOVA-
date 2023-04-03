@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:0 type="stream" channelId="-1",TV Mais News (Cuiabá-MT)
+http://sevensp.homelinux.com:80/live/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1", 1001 Noite (Curitiba-PR)
 https://cdn.jmvstream.com:443/w/LVW-8155/ngrp:LVW8155_41E1ciuCvO_all/chunklist_b1601536.m3u8
 #EXTINF:0 type="stream" channelId="-1", ABBA TV (Osório-PR)
