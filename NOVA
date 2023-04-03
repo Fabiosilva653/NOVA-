@@ -1328,7 +1328,7 @@ https://5cf4a2c2512a2.streamlock.net:443/tvmaismarica/tvmaismarica/chunklist_w18
 #EXTINF:0 type="stream" channelId="-1", TV Pajeu (Serra Talhada-PE)
 https://59f2354c05961.streamlock.net:1443/tvpajeu/_definst_/tvpajeu/chunklist_w1882006246.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV Vídeo News (Osasco-SP)
-https://59f2354c05961.streamlock.net:1443/tvideonews/_definst_/tvideonews/playlist.m3u8
+https://video01.logicahost.com.br/tvideonews/tvideonews/chunklist_w1992804748.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV SUL (São Lourenço do Oeste-SC)
 https://5a0c3936c25c8.streamlock.net:443/8032/8032/chunklist_w1804007897.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV Moçambique
@@ -1349,18 +1349,18 @@ https://59f2354c05961.streamlock.net:1443/tvideonews/_definst_/tvideonews/chunkl
 #EXTINF:0 type="stream" channelId="-1", UFP TV/Futura (Curitiba-PR)
 https://video-rvd-df-gw-1-1.rnp.br:443/live/ocp(t(Fi9ykc7JCK0)r(fVR9ug)a(sapleg)p(d(2xc)k(q78)m(oI4JhIc1mcBbSukUE2dfVw)n(a(8Zvy8Q)s(IrA)'a(RGT0Eg)s(wdk)))s(s(rBo)b(EtuBuPFB10WhwGMe3wiH23r-ZsDuiVzwSgiwYJ6hnAF4930cUEeem1lLDxhiWOjgEeH0EfcK-So9CjUg-A)'s(fZ4)b(_YqfIdZA--X_HSXVRw8Z1rFMNjj1Wqk-ge5MIsrGWv4h9Cc6BKkojwLsCtCXrxjDVeo1y_muqzyALmEUcwk9FgaaCRfm0nwlMxxipz6q)'s(lo0)b(vJtDg9dT))m(0))/28_index.m3u8
 #EXTINF:0 type="stream" channelId="-1", UniscTV/TV Futura(Santa Cruz do Sul - RS)
-http://tv.unisc.br/hls/test.m3u8
+https://tv.unisc.br/hls/test.m3u8
 #EXTINF:-1 tvg-id="UPFTV.br" tvg-name="UPFTV" tvg-country="" tvg-language="" tvg-logo="https://www.upf.br/Assets/img/logo.png" group-title=" ",UPFTV
 #EXTINF:0 type="stream" channelId="-1", UTV (Londrina-PR)
 https://59f2354c05961.streamlock.net:1443/utvtv/_definst_/utvtv/chunklist_w2129126453.m3u8
 #EXTINF:0 type="stream" channelId="-1", Via Morena (Campo Grande-MS)
-https://59f2354c05961.streamlock.net:1443/cleuzaviamorena/_definst_/cleuzaviamorena/chunklist_w1822669396.m3u8
+https://video02.logicahost.com.br/viamorena/viamorena/chunklist_w1173747392.m3u8
 #EXTINF:0 type="stream" channelId="-1", Vila TV (Petrópolis-RJ)
-https://596639ebdd89b.streamlock.net:443/8072/8072/chunklist_w1579469935.m3u8
+https://streamserver.streamingdevideo.com.br/8072/8072/chunklist_w1373659104.m3u8
 #EXTINF:0 type="stream" channelId="-1", Vintage TV (Cotia-SP)
 https://stmv1.srvif.com/webvintage/webvintage/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", Virtual TV (Francisco Beltrão-PR)
 https://59f1cbe63db89.streamlock.net:1443/mundotv2/_definst_/mundotv2/chunklist_w1583409121.m3u8
 #EXTINF:0 type="stream" channelId="-1", Web Tv Olho D'água (Horizonte-CE)
-https://stmv1.livevoxtv.com.br/webtv93/webtv93/playlist.m3u8
+https://stmv1.liveplushd.com.br/tvolhodaguaweb/tvolhodaguaweb/chunklist_w1466364208.m3u8
 
