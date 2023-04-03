@@ -992,8 +992,8 @@ https://edge-go-01.eduplay.rnp.br:443/media/ocp(r(uxqJWw)t(AAAAAAAAAAA)p(d(1V0)k
 https://srv3.zcast.com.br/novatv/novatv/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", RTVM TV (Fortaleza-CE)
 https://srv2.zcast.com.br/rtvmc/rtvmc/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1", Aish Tv Brasil (Cabo Frio-RJ)
-https://srv2.zcast.com.br/elzemar/elzemar/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", X Plus TV (Cabo Frio-RJ)
+https://srv4.zcast.com.br/telavivatv/telavivatv/playlist.m3u8
 8#EXTINF:0 type="stream" channelId="-1", Animax Brasil (Nazário-GO)
 https://stmv1.samcast.com.br/muriloevangelistadearaujo2973/muriloevangelistadearaujo2973/playlplaylist.m3u8ghNF:0 type="stream" channelId="-1", AWC Channel (São Paulo-SP)
 #EXTINF:0 type="stream" channelId="-1", BAH TV(Porto Alegre-RS)
@@ -1003,8 +1003,10 @@ http://wz4.dnip.com.br/bemtv/bemtv.sdp/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", Bons Tempos TV (Várzea da Roça
 https://tv01.livemustv.com.br/rivaldo6209/rivaldo6209/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", BS TV (Santos-SP)
-https://596639ebdd89b.streamlock.net/tvonline/tvonline/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1", Canal 10 (Foz do Iguaçu-PR)
+https://br5093.streamingdevideo.com.br:443/bstv/bstv/chunklist_w1516982516.m3u8
+#EXTINF:0 type="stream" channelId="-1",RBS Mix (Itaperuçu-PR)
+https://video01.kshost.com.br:4443/ezequiel3930/ezequiel3930/playlist.m3u8 
+#EXTINF:0 type="stream" channelId="-1",Canal 10 (Foz do Iguaçu-PR)
 http://wz3.dnip.com.br/fozmidia/fozmidia.sdp/chunklist_w51394447.m3u8
 #EXTINF:0 type="stream" channelId="-1", Canal 10 (Fernandópolis-SP)
 http://wowza.acessaradios.com.br:1935/canaldez/canaldez/chunklist_w814947861.m3u8
@@ -1028,7 +1030,7 @@ http://189.14.233.254:1935/WebTV/WebTV.stream/chunklist_w622944574.m3u8
 #EXTINF:0 type="stream" channelId="-1", Conexão TV (São João Nepomuceno-MG)
 https://5a57bda70564a.streamlock.net/conexaotv/conexaotv.sdp/chunklist-480p.m3u8
 #EXTINF:-1 tvg-id="CulturaPara.br" tvg-name="Cultura Pará" tvg-country="BR" tvg-language="" tvg-logo="https://i.imgur.com/5jPEI5c.png" group-title="",Cultura Pará (Belém-PA)
-http://www.portalcultura.com.br/playerhtml/funtelpa/tv_funtelpa/playlist.m3u8
+https://www.portalcultura.com.br:443/playerhtml/funtelpa/tv_funtelpa/chunklist_w367103454.m3u8
 #EXTINF:0 type="stream" channelId="-1", Elemental Channel (São Paulo-SP)
 https://5d82644094cc0.streamlock.net:443/8116/8116/chunklist_w502432048.m3u8
 #EXTINF:0 type="stream" channelId="-1", Fala Litoral (Balneário Camboriú-SC)
