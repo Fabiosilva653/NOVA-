@@ -3,7 +3,8 @@
 https://cdn.jmvstream.com:443/w/LVW-8155/ngrp:LVW8155_41E1ciuCvO_all/chunklist_b1601536.m3u8
 #EXTINF:0 type="stream" channelId="-1", ABBA TV (Osório-PR)
 https://video01.kshost.com.br:4443/adilson8953/adilson8953/chunklist_w679624101.m3u8
-
+#EXTINF:0 type="stream" channelId="-1",TV Zona da Mata (Muriaé-MG)
+https://video01.logicahost.com.br/tvzonadamata/tvzonadamata/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1",ECO TV ABC
 https://5b7f3c45ab7c2.streamlock.net:443/ecotvabc/ecotvabc/chunklist_w500297731.m3u8
 #EXTINF:0 type="stream" channelId="-1",Rede Tv (Abaetuba-PA)
@@ -1038,13 +1039,13 @@ http://webtv.bitstreaming.info:1935/falalitoraltv/falalitoraltv/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", FCV/Rede  Minas (Muriaé - MG)
 https://59f2354c05961.streamlock.net:1443/redeatividade/_definst_/redeatividade/chunklist_w1847745068.m3u8
 #EXTINF:0 type="stream" channelId="-1", Fonte TV (Goiás-GO)
-https://59fb88a1b1108.streamlock.net:443/fonte/_definst_/fontetv/chunklist_w445652274.m3u8
+https://59fb88a1b1108.streamlock.net:443/fonte/_definst_/fontetv/chunklist_w1436241685.m3u8
 #EXTINF:0 type="stream" channelId="-1", Foz TV (Foz do Iguaçu-PR)
 https://videostreamingserver1.septecloud.com.br/hls_foztv/foztvaovivo.m3u8
 #EXTINF:0 type="stream" channelId="-1", Furg TV (Rio Grande-RS)
 https://stream.furg.br/hls/furgtv.m3u8
 #EXTINF:-1 tvg-id="Futura.br" tvg-name="Futura" tvg-country="" tvg-language="" tvg-logo="https://eonteambrasil.com.br/SharedAssets/logo-canais/futura.jpg" group-title=" ",Futura (Rio de Janeiro-RJ
-https://canal1.proxy.tokplay.com.br/videos/event9/auto.m3u8
+https://stmv1.transmissaodigital.com/ronald6259/ronald6259/chunklist_w1479612842.m3u8
 #EXTINF:0 type="stream" channelId="-1", Gostei Gospel TV (São Paulo-SP)
 https://59f1cbe63db89.streamlock.net:1443/gospeltv/gospeltv/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", Hora 1 (Matão-SP)
@@ -1057,9 +1058,9 @@ http://wse01.logicahost.com.br:1935/itutv/_definst_/itutv/chunklist_w1393574519.
 #EXTINF:0 type="stream" channelId="-1", Kuriakos Cine (Portugal)
 http://c2.manasat.com:1935/kcine/kcine3/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", Kuriakos kids (Portugal)
-http://c2.manasat.com:1935/kkids/kkids2/chunklist_w1127847381.m3u8
+http://w2.manasat.com:1935/kkids/smil:kkids.smil/chunklist_w1187441146_b3048000_sleng.m3u8
 #EXTINF:0 type="stream" channelId="-1", Kuriakos TV (Portugal)
-http://195.22.11.11:1935/ktv/ktv2/chunklist_w281191283.m3u8
+https://w1.manasat.com:443/ktv/smil:ktv.smil/chunklist_w896156307_b3048000_sleng.m3u8
 #EXTINF:0 type="stream" channelId="-1", Lider TV (São Sebastião do Paraíso-MG)
 http://189.51.193.70:1935/LiderTV/fluxo1/chunklist_w198217270.m3u8
 #EXTINF:0 type="stream" channelId="-1", Mam News WEB TV (Monte Alegre de Minas-MG)
@@ -1072,9 +1073,9 @@ https://59f1cbe63db89.streamlock.net:1443/caxiastv/caxiastv/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", Mundo TV (Francisco Beltrão-PR)
 https://59f1cbe63db89.streamlock.net:1443/mundotv/_definst_/mundotv/chunklist_w282804386.m3u8
 #EXTINF:0 type="stream" channelId="-1", NATURE TV
-https://stmv1.srvif.com/nattv/nattv/playlist.m3u8
+https://stmv1.painelvideo.top:443/nattv/nattv/chunklist_w1361885310.m3u8
 #EXTINF:0 type="stream" channelId="-1", Nova Barreiros (Barreiros-PE)
-https://5d82644094cc0.streamlock.net/8026/8026/playlist.m3u8
+https://srv5.zcast.com.br/rbr/rbr/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", Nova Nordeste (Recife-PE)
 https://live.comets.com.br:443/tvnovanordeste/aovivo/chunklist_w62906530.m3u8
 #EXTINF:0 type="stream" channelId="-1", Nova Play (Rio de Janeiro-RJ)
@@ -1084,9 +1085,9 @@ https://59f1cbe63db89.streamlock.net:1443/redegostei/redegostei/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", Portal Cultura (Belém -PA)
 http://www.portalcultura.com.br/playerhtml/funtelpa/tv_funtelpa/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", Portal Ativo (Imperatriz-MA )
-https://flussonic-tv.jupiter.com.br:443/portalativo/tracks-v1a1/mono.m3u8
+https://flussonic-tv.jupiter.com.br:443/portalativo/tracks-v1a1/mono.m3u89
 #EXTINF:0 type="stream" channelId="-1", Primer TV (São José-SC)
-http://200.194.238.229:8383/live/primer/playlist.m3u8
+http://177.74.174.57:8080/hls/primertv.m3u8
 #EXTINF:0 type="stream" channelId="-1", Rede QDM (Hortolândia-SP)
 https://59f1cbe63db89.streamlock.net:1443/tvkidmais/_definst_/tvkidmais/chunklist_w1464357190.m3u8
 #EXTINF:-1 tvg-id="RecordTVNatalTVTropical.br" tvg-name="RecordTV Natal - TV Tropical" tvg-country="BR" tvg-language="" tvg-logo="https://i.imgur.com/TD6ZJoa.png" group-title=" ",RecordTV Natal - TV Tropical
