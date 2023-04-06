@@ -69,8 +69,8 @@ https://stmv1.srvstm.com/victor7513/victor7513/playlist.m3u8
 https://stmv1.paineltv.net:443/arcertetv/arcertetv/chunklist_w38164642.m3u8
 #EXTINF:0 type="stream" channelId="-1",40º TV
 https://acesso.ecast.site:3125/stream/play.m3u8
-#EXTINF:0 type="stream" channelId="-1",Guia TV/TV Brasil 2
-https://livefocamundo.com:8081/guiatv/index.m3u8
+#EXTINF:0 type="stream" channelId="-1",Guia TV/TV Brasil 2 (Pombal-PB)
+https://video05.logicahost.com.br:443/guiatvpombal/guiatvpombal/chunklist_w710443982.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-logo="https://i.imgur.com/p1vfTt4.png" group-title="",TV Gideões (Camboriú-SC)
 https://streaming01.zas.media/gideoes/programacao/playlist.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-logo="https://i.imgur.com/eTGwY1g.png" group-title="",TV Kairós (Marabá-PA)
