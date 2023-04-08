@@ -129,10 +129,6 @@ https://akamai.cdn.spalla.io:443/live/cb4a055c-36e9-489c-88bc-e225dc6ac594/s2/pl
 https://enc1.proxy.tokplay.com.br/BAND-MAIS-HD/index.m3u8
 #EXTINF:-1 tvg-id="BandSaoPaulo.br" tvg-logo="https://i.imgur.com/DSIv6Is.png" group-title="",Band Minas (Belo Horizonte-MG)
 http://evpp.mm.uol.com.br:1935/bandpracas/debatemg/playlist.m3u8
-#EXTINF:-1 tvg-id="RedeGlobo.br" description="ProgramaÃ§Ã£o TV Globo" tvg-logo="https://i.imgur.com/vVr5Bsg.png" group-title="",TV Morena/Rede Globo (Campo Grande-MS)
-http://15.235.55.115:14106/
-#EXTINF:-1 tvg-id="RedeGlobo.br" description="ProgramaÃ§Ã£o TV Globo" tvg-logo="https://i.imgur.com/eUyzwYw.png" group-title="",EPTV/ Rede Globo (Campinas-SP)
-http://15.235.55.115:14104/
 #EXTINF:-1 tvg-id="TVBahia.br" description="ProgramaÃ§Ã£o TV Globo" tvg-logo="https://i.imgur.com/k4fl1wF.png" group-title="",TV Bahia/Rede Globo (Salvador-BA)
 https://transcoder.proxy.tokplay.com.br:443/videos/REDEGLOBO/format720p_REDEGLOBO.m3u8
 #EXTINF:0 type="stream" channelId="-1",TV Aldeia (Itaocara-RJ)
