@@ -175,7 +175,7 @@ https://www.dailymotion.com/cdn/live/video/x82pp99.m3u8?sec=VaebMKMQriWHXjzZJRc4
 https://cdn.jmvstream.com:443/w/LVW-9375/LVW9375_6i0wPBCHYc/chunklist.m3u8
 #EXTINF:0 type="stream" channelId="-1", TVE/TV Brasil (Salvador-BA)
 http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-1.m3u8
-#EXTINF:0 type="stream" channelId="-1",AWTV
+#EXTINF:0 type="stream" channelId="-1",AWTV (São Paulo-SP)
 https://ebocast.ebosystems.com.br:3070/live/awtvlive.m3u8
 #EXTINF:-1 tvg-id="1311" tvg-name="Yeeaah TV" tvg-logo="https://i.paste.pics/a247e3e0cda516edbc4921f0fc4e7182.png", Yeeaah TV | BR
 https://stmv1.painelvideo.top/yeeaah/yeeaah/playlist.m3u8?PlaylistM3UCL
@@ -907,8 +907,8 @@ https://59f1cbe63db89.streamlock.net:1443/ntvnet/_definst_/ntvnet/chunklist_w175
 https://r9---sn-8p8v-bg0k.googlevideo.com/videoplayback?expire=1633984005&ei=pUlkYeXVD4LFwgS6nam4Ag&ip=2804%3A431%3Ac7e6%3Ab10d%3A2cea%3Ad341%3Afe85%&aita4bd&id=-ait62fBLFGd8.1 %2C134%2C135%2C136%2C160%2C242%2C243%2C244%2C247%2C278&source=yt_live_broadcast&requiressl=yes&mh=hG&mm=44%2C29&mn=sn-8p8v-bg0k%2Csn-bg0ezn7e&ms=lva%2Crdu&mv=m&mvi=9&pcm2cms=yes&pl=48&initcwndbps =552500&vprv=1&live=1&hang=1&noclen=1&mime=video%2Fwebm&ns=mskcAR-gDBR4t_dI0mxSfi4G&gir=yes&mt=1633962037&fvip=3&keepalive=yes&fexp=24001373%2C24007246&c=WEB_EMBEDDED_PLAYER&n=QHCxMiPLahJbNQ&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cvprv %2Clive%2Chang%2Cnoclen%2Cmime%2Cns%2Cgir&sig=AOq0QJ8wRAIgSt-qkVGY0UTqbeeqmMNRwekJ2mhQtErwupR0EifdtfICIFUfZJkJ_ZOHe0dmAo-x1A6tSLsVB7MCyrnH23UY3sg3&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpcm2cms%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRQIgbExBzJ5xKx-hfI2MLzrEHuFr8MpTHhwPpATo2k16gI0CIQCWuP55NG9DT-t6xTfonwruvDrcMMyxLLSEe7HVFQ4mbg%3D%3D&alr=yes&cpn=_a0lFrIhQs3AX9ui&cver=1.20211006.1.0&sq=462081&rn=13&rbuf=4879
 #EXTINF:0 type="stream" channelId="-1", Rede Caxias (Duque de Caxias-RJ)
 https://stmv1.srvstm.com:443/luis5346/luis5346/chunklist_w1683926974.m3u8
-#EXTINF:0 type="stream" channelId="-1", Rede Clone (Belém-PA)
-https://stmv5.samcast.com.br/abnerbom1543/abnerbom1543/chunklist_w1944295461.m3u8
+#EXTINF:0 type="stream" channelId="-1", Rede Clouding (Belém-PA)
+https://stmv1.paineltv.net/redeclonetv/redeclonetv/chunklist_w1109689646.m3u8
 #EXTINF:0 type="stream" channelId="-1", Rede Encauca (Fortaleza-CE)
 https://srv1.painelvideo.com/encaucafm/encaucafm/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", Rede Paulistana (Americana-SP)
