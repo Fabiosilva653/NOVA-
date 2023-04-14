@@ -345,8 +345,6 @@ https://cdn.jmvstream.com/w/LVW-11574/LVW11574_CEJO5rAP5p/chunklist.m3u8
 https://srv3.zcast.com.br/leonardo2328/leonardo2328/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV Centro Sul (Iguatu-CE)
 https://5a0c3936c25c8.streamlock.net/tvcentrosultvstation/tvcentrosultvstation/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1", Web Tv Centro Sul (Cachoeira do Sul-RS)
-https://srv2.zcast.com.br:443/luiz4361/luiz4361/chunklist_w446658897.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV em Foco Dos Vales (Sabinópolis-MG)
 https://5ad482a77183d.streamlock.net/pedroavilacampegmail.com/pedroavilacampegmail.com/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV Osório News (Osório-RS)
