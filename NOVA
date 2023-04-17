@@ -713,26 +713,26 @@ https://cdn.jmvstream.com:443/w/AVJ-13260/playlist/chunklist.m3u8
 https://stmv5.samcast.com.br/oasistv/oasistv/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV Câmara (Campina Grande-PA)
 https://video04.logicahost.com.br:443/campinagrande/campinagrande/chunklist_w849742363.m3u8
-#EXTINF:0 type="stream" channelId="-1", WTJ Minas  (Belo Horizonte - MG)
-https://video01.kshost.com.br/wladimir4773/wladimir4773/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", WTJ Minas (Belo Horizonte - MG)
+https://video02.logicahost.com.br:443/wtjtvminas/wtjtvminas/chunklist_w1663038584.m3u8
 #EXTINF:0 type="stream" channelId="-1", ALL TV (Morumbi-SP)
 https://cdn.jmvstream.com/w/AVJ-9086/playlist/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", D+TV (Campos dos Goytacazes - RJ)
 https://stmv1.samcast.com.br:443/demaistv6503/demaistv6503/chunklist_w1412759915.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV ACE (Caraguatatuba-SP)
-https://stmv4.samcast.com.br/associacaocomercialeempresarialdecaraguatatuba9808/associacaocomercialeempresarialdecaraguatatuba9808/playlist.m3u8
+https://stmv7.samcast.com.br:443/associacaocomercialeempresarialdecaraguatatuba7320/associacaocomercialeempresarialdecaraguatatuba7320/chunklist_w1194881641.m3u8
 #EXTINF:0 type="stream" channelId="-1", FDR/Futura (Fortaleza-CE)
 https://Stmv1.transmissaodigital.com/ronald6259/ronald6259/playlist.m3u8
 #EXTINF: 0 type = "stream" channelId = "- 1" size = "", TV Santa (Santa Cruz do Rio Pardo - SP)
-https://596639ebdd89b.streamlock.net/tvbela0982/tvbela0982/playlist.m3u8
+https://br5093.streamingdevideo.com.br:443/tvtabela/tvtabela/chunklist_w234938845.m3u8
 #EXTINF: 0 type = "stream" channelId = "- 1", Portal Sudoeste
 https://livefocamundo.com:8081/tvsudoeste/index.m3u8
 #EXTINF: 0 type = "stream" channelId = "- 1", Blits TV
-https://video01.logicahost.com.br:443/blitstv/blitstv/chunklist_w26905352.m3u8
+https://video03.logicahost.com.br:443/blitstv01/blitstv01/chunklist_w1853151044.m3u8
 #EXTINF: 0 type = "stream" channelId = "- 1", Q TAL? Channel
-https://alanza.iptv2022.com:443/QTAL_Channel/tracks-v1a1/mono.m3u8?eyJwbGF0Zm9ybSI6IndlYiIsImFwcCI6InR2LmxpbWV4LmJyYXNpbC53ZWIifQ==
+https://video03.logicahost.com.br:443/qtalchannel01/qtalchannel01/chunklist_w902897379.m3u8
 #EXTINF: 0 type = "stream" channelId = "- 1", Rede QDM 2 (Hortolândia-SP)
-https://video01.logicahost.com.br/tvkidmais/tvkidmais/playlist.m3u8
+https://video03.logicahost.com.br:443/tvkidmais01/tvkidmais01/chunklist_w130893699.m3u8
 #EXTINF: 0 type = "stream" channelId = "- 1", UNITV (Porto Alegre-RS)
 http://unitvaovivo.ufrgs.br:8080/live.ogg
 #EXTINF: 0 type = "stream" channelId = "- 1", TV Terra do Sol (Fortaleza-CE)
