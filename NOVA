@@ -39,8 +39,6 @@ https://video01.logicahost.com.br/redeipitangatv/redeipitangatv/playlist.m3u8
 https://video01.logicahost.com.br:443/tvlagoazul/tvlagoazul/chunklist_w1514411008.m3u8
 #EXTINF:0 type="stream" channelId="-1",CinePlay (Poço das Trincheiras-AL)
 https://stmv1.srvif.com/cineplaytv1/cineplaytv1/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1",RIT
-http://boxtv.uniredes.com.br:80/rafael/rafael/70
 #EXTINF:0 type="stream" channelId="-1",TV Jovem Hits (Uruguaiana-RS)
 https://video01.kshost.com.br:4443/joao9563/joao9563/chunklist_w327191878.m3u8
 #EXTINF:0 type="stream" channelId="-1",TV Show de Bola (Constantina-RS)
@@ -821,14 +819,14 @@ https://5c483b9d1019c.streamlock.net:443/8064/8064/playlist.m3u8
 https://hls.brasilstream.com.br/live/tvsalto/tvsalto/index.m3u8?fbclid=IwAR1_16UTp5gffYglWTQFpjd_mf6VubyfxwhWi5XXmgx7Bn1iWKHsirk6xuE
 #EXTINF: 0 type = "stream" channelId = "- 1", TV Sonata (Caieiras-SP)
 https://stmv1.srvstm.com:443/tiago4617/tiago4617/chunklist_w1888953104.m3u8
-#EXTINF: 0 type = "stream" channelId = "- 1", TV RS Cidades
-https://video01.kshost.com.br/angelo4200/angelo4200/playlist.m3u8?t=1635101521
+#EXTINF: 0 type = "stream" channelId = "- 1", TV RS Cidades (Bento Gonçalves-RS)
+https://video01.kshost.com.br:4443/gabriel9059/gabriel9059/chunklist_w2265506.m3u8
 #EXTINF: 0 type = "stream" channelId = "- 1", MAIS TV
 https://alanza.iptv2022.com/Mais_TV/index.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV EreNews (Erechim-RS)
 https://stmv1.samcast.com.br:443/erenews/erenews/chunklist_w895863099.m3u8
 #EXTINF: 0 type = "stream" channelId = "- 1", Canal VRT
-https://stream.vrtchannel.tv.br:1936/vrtchannel/ngrp:vrtchannel_all/playlist.m3u8
+https://sistemavrt.vrtchannel.tv.br:3473/stream/play.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV Revista (Nazaré-BA)
 https://stmv1.srvif.com:443/tvrevista/tvrevista/chunklist_w888281161.m3u8
 #EXTINF:0 type="stream" channelId="-1", Master Show (São Paulo-SP)
