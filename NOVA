@@ -736,7 +736,7 @@ https://video03.logicahost.com.br:443/tvkidmais01/tvkidmais01/chunklist_w1308936
 #EXTINF: 0 type = "stream" channelId = "- 1", UNITV (Porto Alegre-RS)
 http://unitvaovivo.ufrgs.br:8080/live.ogg
 #EXTINF: 0 type = "stream" channelId = "- 1", TV Terra do Sol (Fortaleza-CE)
-https://usher.ttvnw.net/api/channel/hls/tvterradosol.m3u8?acmb=e30%3D&allow_source=true&fast_bread=true&p=2183675&play_session_id=fa2c3958fe07854395db31bd373eef31&player_backend=mediaplayer&playlist_include_framerate=true&reassignments_supported=true&sig=6507009b99c3497cb7ed4e47c68819e8cce53022&supported_codecs=avc1&token=%7B%22adblock%22%3Afalse%2C%22authorization%22%3A%7B%22forbidden%22%3Afalse%2C%22reason%22%3A%22%22%7D%2C%22blackout_enabled%22%3Afalse%2C%22channel%22%3A%22tvterradosol%22%2C%22channel_id%22%3A647650048%2C%22chansub%22%3A%7B%22restricted_bitrates%22%3A%5B%5D%2C%22view_until%22%3A1924905600%7D%2C%22ci_gb%22%3Afalse%2C%22geoblock_reason%22%3A%22%22%2C%22device_id%22%3A%22eR3N8RJEllBck55AJf2ujEzo3TcdpO33%22%2C%22expires%22%3A1677788597%2C%22extended_history_allowed%22%3Afalse%2C%22game%22%3A%22%22%2C%22hide_ads%22%3Afalse%2C%22https_required%22%3Atrue%2C%22mature%22%3Afalse%2C%22partner%22%3Afalse%2C%22platform%22%3A%22web%22%2C%22player_type%22%3A%22embed%22%2C%22private%22%3A%7B%22allowed_to_view%22%3Atrue%7D%2C%22privileged%22%3Afalse%2C%22role%22%3A%22%22%2C%22server_ads%22%3Atrue%2C%22show_ads%22%3Atrue%2C%22subscriber%22%3Afalse%2C%22turbo%22%3Afalse%2C%22user_id%22%3Anull%2C%22user_ip%22%3A%22186.222.74.17%22%2C%22version%22%3A2%7D&cdm=wv&player_version=1.17.0
+https://video-weaver.sao03.hls.ttvnw.net/v1/playlist/CqIFBp1DGqmvMKaPuxS36YR4z8OsM9EBC6QhTrQ_oP-6quMPmIiBnFKOUIVlNjEFR2zBUHQD-oSMRUHzMVutSoSI55KVrRO8xp4qPY2eMBUGwYDRLMEWuufqd1Z8hMQIOkK-LB_2_keJ-0coegxXRSkerA331R_y7tzLiPYHsU3W2RMQMQtUG8h3xf9lZ7bEG49qHxcudXLgRnCd1Hg3g-f9wqPSKE5fUWWdi4z1pYnFGVNo43AgjqLVeYW-VX018bCLyVhPoO96oNVsCuzsiekudy0B1yluAknDsskR8XOUhtpWJpQVNPxeStKMJMCEoqgOWlmHBJ_Z2xjFKg9WWIHBI4rJfZGHYDcMzTaqiCS4LKUHLEoWnFsWNvJhE2IK8KJLpMNA6ouCNSzO_WNpBSgNJ1s_ljqm7bjm3-V4hRR-ImGMF_1pNnmKt5GW1Ie9xQ0PeEbKOv5Bnq8eWcl87dtjAlSrGCe0AUTuF7SFMKdwc9uwZZG_RRFLkTmKzlH9N_kRwtJbUqd8VI4PyBz93xMegMMK3o6uP4YBX4BMBzG413LKOLHD3AEXwF8fQgO8VdozwKN0oDumScjK5nJ4NRq3EPNhm83MSKat9a4gUeGhsfY2Q2g54s5Kor1pm4zUwUtVCt3JdWPQLJTQiaj-5oDv0-eKSVVRd7elJDg9vlbzQT1W60XIDt7JeA7iHlde6xNHVG-s0qjM364j2OMsMuafg6lGgYr238WnN3hj018twuV21dQ9uUU5BIVikHX8s11-kOnjGzM6-oqYM5G-M9SkrAs3UKrNlRXZKlnz7D7XJwu5sGIv9SpwTzT4BCb-nc-sbI-d4A2zpG1oYTXzWc2U46hbnkPaYaA-OzSIAQGkTIKH921ASTCg410Lrenh0LEjXQ8aDNsaD1vmxk2W6owFRyABKgl1cy1lYXN0LTEw4gQ.m3u8
 #EXTINF: 0 type = "stream" channelId = "- 1", VV8 (Valinhos-SP)
 https://video01.kshost.com.br:4443/seap8272/seap8272/chunklist_w1457720581.m3u8
 #EXTINF: 0 type = "stream" channelId = "- 1", TV Urbana (Porto Alegre-RS)
@@ -1357,4 +1357,7 @@ https://stmv1.srvif.com/webvintage/webvintage/playlist.m3u8
 https://59f1cbe63db89.streamlock.net:1443/mundotv2/_definst_/mundotv2/chunklist_w1583409121.m3u8
 #EXTINF:0 type="stream" channelId="-1", Web Tv Olho D'água (Horizonte-CE)
 https://stmv1.liveplushd.com.br/tvolhodaguaweb/tvolhodaguaweb/chunklist_w1466364208.m3u8
+
+
+
 
