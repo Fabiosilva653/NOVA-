@@ -90,7 +90,7 @@ https://tvdiversa.brasilstream.com.br/hls/tvdiversa/index.m3u8
 #EXTINF:-1 tvg-id="RedeTV.br" description="ProgramaÃ§Ã£o RedeTV!" tvg-logo="https://i.imgur.com/NMx2Cxc.png" group-title="",O Dia TV/RedeTV (Teresina-PI)
 https://59e4b6c1beddc.streamlock.net/tvodia/tvodia/playlist.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-logo="https://i.imgur.com/yGBFPRH.png" group-title="",NGT/Rede Brasil (Rio de Janeiro-RJ)
-https://acesso.ecast.site:3922/live/redengtlive.m3u8
+https://streaming.cloudecast.com:443/memfs/d82529b5-3d6f-4995-acb1-6b0a2c3164fa_output_0.m3u8?session=JxcMtcKwTKpRdKgugPBJHF
 #EXTINF:-1 tvg-id="RecordTV.br" description="ProgramaÃ§Ã£o RecordTV" tvg-logo="https://i.imgur.com/cBb5xM0.png" group-title="",NDTV/Rede Record (Criciúma-SC)
 https://caikron.com.br:19360/criciuma/criciuma.m3u8
 #EXTINF:-1 tvg-id="BandSaoPaulo.br" tvg-logo="https://i.imgur.com/dal1lDK.png" group-title="",Band Mais (Campinas-SP)
@@ -104,10 +104,10 @@ https://stmv1.samcast.com.br:443/giovane7843/giovane7843/chunklist_w917391782.m3
 #EXTINF:0 type="stream" channelId="-1",PIX TV (Garopaba-SC)
 https://mpix05.tmwpix.com:6516/canais/pixtv.m3u8?token=7HvFdhC6lyw6ewCA-dqPIQ&amp;expires=1663865251
 #EXTINF:0 type="stream" channelId="-1",TV Antena 10/Rede Record (Teresina-PI)
-https://video04.logicahost.com.br:443/a10mais02/smil:transcoder.smil/chunklist_w96502193_b1396000.m3u8
+https://video04.logicahost.com.br:443/a10mais02/smil:transcoder.smil/chunklist_w623874998_b1396000.m3u8
 l/chunklist_w887947300_b2046000.m3u8
-#EXTINF:0 type="stream" channelId="-1",Pet Lovers TV (São Paulo-SP)
-https://acesso.ecast.site:3660/stream/play.m3u8
+#EXTINF:0 type="stream" channelId="-1",PetLovers TV (São Paulo-SP)
+https://video04.logicahost.com.br/petloverstv/petloverstv/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1",TV News ETC (Belo Horizonte-MG)
 https://video01.logicahost.com.br/nelio/nelio/playlist.m3u8
 EXTINF:-1 tvg-id="ext" tvg-logo="https://i.imgur.com/f7rGOwn.png" group-title="Web TV",Guia TV
@@ -123,7 +123,7 @@ https://5cf4a2c2512a2.streamlock.net:443/rbatv/rbatv/chunklist_w11775895.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV RBA/TV Brasil (Rio do Sul-SC)
 https://tv02.zas.media:1936/rbatv/rbatv/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV Avant (Registro-SP)
-https://video01.logicahost.com.br:443/tvavant/tvavant/chunklist_w1052419478.m3u8
+https://video04.logicahost.com.br:443/tvavant/tvavant/chunklist_w1267466030.m3u8
 #EXTINF:0 type="stream" channelId="-1", KTV Brasil (Brasí­lia-DF)
 https://stmv1.samcast.com.br:443/paulohenrique5216/paulohenrique5216/chunklist_w462474634.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV Diário (Fortaleza-CE)
@@ -147,8 +147,6 @@ http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-1.m3u8
 https://ebocast.ebosystems.com.br:3070/live/awtvlive.m3u8
 #EXTINF:-1 tvg-id="1311" tvg-name="Yeeaah TV" tvg-logo="https://i.paste.pics/a247e3e0cda516edbc4921f0fc4e7182.png", Yeeaah TV | BR
 https://stmv1.painelvideo.top/yeeaah/yeeaah/playlist.m3u8?PlaylistM3UCL
-#EXTINF:0 type="stream" channelId="-1", Rede Manchete (Poço das Trincheiras-AL)
-https://stmv1.srvif.com/tvmanchete1/tvmanchete1/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV Ibiapabana
 https://stmv1.duvoxtv.com.br:443/gamer/gamer/chunklist_w202730376.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV Candidés/TV Cultura (Divinolis-MG)
