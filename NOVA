@@ -12,7 +12,7 @@ https://video01.logicahost.com.br/tvzonadamata/tvzonadamata/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1",ECO TV ABC
 https://5b7f3c45ab7c2.streamlock.net:443/ecotvabc/ecotvabc/chunklist_w500297731.m3u8
 #EXTINF:0 type="stream" channelId="-1",Rede Tv (Abaetuba-PA)
-https://cdn-leonildo-11824.ciclano.io:1443/leonildo-11824/leonildo-11824/chunklist_w559330704.m3u8
+https://cdn-leonildo-11824.ciclano.io:1443/leonildo-11824/leonildo-11824/chunklist_w1513338373.m3u8
 #EXTINF:0 type="stream" channelId="-1",TV Assembléia Maranhão 
 https://tvonline.al.ma.leg.br:8443/live2/livestream.m3u8
 #EXTINF:0 type="stream" channelId="-1",TV Imprensa (São José dos Campos-SP)
@@ -24,7 +24,7 @@ https://stmv1.srvif.com/igreja/igreja/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1",Guaranta TV (Guarantã-SP)
 https://stmv1.samcast.com.br:443/guarantaradiotv/guarantaradiotv/chunklist_w119050643.m3u8
 #EXTINF:0 type="stream" channelId="-1",TVC (Bauru-SP)
-https://59f2354c05961.streamlock.net:1443/tvbauru/_definst_/tvbauru/chunklist_w1268371445.m3u8
+https://59f2354c05961.streamlock.net:1443/tvbauru/_definst_/tvbauru/chunklist_w421351213.m3u8
 #EXTINF:0 type="stream" channelId="-1",Poléia (Palestina-SP)
 https://stmv1.samcast.com.br/hadailtonjose5865/hadailtonjose5865/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1",Favorita TV (Caçapava-SP)
@@ -35,10 +35,6 @@ https://tv02.zas.media:1936/tveon/tveon/chunklist_w1084349111.m3u8
 https://stmv1.voxtvhd.com.br/8000/8000/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1",Rede Ipitanga (Lauro de Freitas-BA)
 https://video01.logicahost.com.br/redeipitangatv/redeipitangatv/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1",TV Lagoa Azul (Gandu-BA)
-https://video01.logicahost.com.br:443/tvlagoazul/tvlagoazul/chunklist_w1514411008.m3u8
-#EXTINF:0 type="stream" channelId="-1",CinePlay (Poço das Trincheiras-AL)
-https://stmv1.srvif.com/cineplaytv1/cineplaytv1/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1",TV Jovem Hits (Uruguaiana-RS)
 https://video01.kshost.com.br:4443/joao9563/joao9563/chunklist_w327191878.m3u8
 #EXTINF:0 type="stream" channelId="-1",TV Show de Bola (Constantina-RS)
@@ -47,8 +43,6 @@ https://painel.sintonizar.tv.br:1936/tvsdbola/tvsdbola/playlist.m3u8
 https://video01.kshost.com.br:4443/associacao6754/associacao6754/chunklist_w414421373.m3u8
 #EXTINF:0 type="stream" channelId="-1",Play TV (São Paulo-SP-SP)
 https://live.mediastreaming.com.br:443/playtvhd/playtv.stream/chunks.m3u8
-#EXTINF:0 type="stream" channelId="-1",TV Cujubim/TV Evangelizar  (Cujubim-RO)
-https://livefocamundo.com:8081/sictvcujubimcanal18/index.m3u8
 #EXTINF:0 type="stream" channelId="-1",Geekdot TV
 https://stream.ichibantv.ga:3764/stream/play.m3u8
 #EXTINF:0 type="stream" channelId="-1",TV Templo (São Paulo-SP)
@@ -61,8 +55,6 @@ https://cdn.jmvstream.com:443/w/AVJ-12928/playlist/chunklist.m3u8
 https://srv4.zcast.com.br:443/redetvoficial/redetvoficial/chunklist_w903072198.m3u8
 #EXTINF:0 type="stream" channelId="-1",A7 (Caldas Novas-GO)
 https://srv3.zcast.com.br/wellington7720/wellington7720/chunklist_w1269001024.m3u8
-#EXTINF:0 type="stream" channelId="-1",TV ABC Brasil (São Paulo-SP)
-https://cdn.jmvstream.com/w/AVJ-12986/playlist/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1",ABC Brasil (São Bernardo do Campo-SP)
 https://stmv1.srvstm.com/victor7513/victor7513/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1",Arcerte TV (Petrolina-PE)
@@ -75,18 +67,14 @@ https://video05.logicahost.com.br:443/guiatvpombal/guiatvpombal/chunklist_w71044
 https://streaming01.zas.media/gideoes/programacao/playlist.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-logo="https://i.imgur.com/eTGwY1g.png" group-title="",TV Kairós (Marabá-PA)
 https://stmv2.voxtvhd.com.br/kairosfm893/kairosfm893/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-logo="https://i.imgur.com/5IC5kuO.png" group-title="",TV Feliz (Natal-RN)
-https://video01.logicahost.com.br/tvfeliz/tvfeliz/playlist.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-logo="https://i.imgur.com/QqdFSOV.png" group-title="",TV Vianney ( Taboão da Serra-SP)
 https://5e837408ea907.streamlock.net:1936/paroquiavianney/paroquiavianney/playlist.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-logo="https://i.imgur.com/9mZwtmt.png" group-title="",TV RP (Ribeirão Preto-SP)
 https://5b7f3c45ab7c2.streamlock.net/8042/8042/playlist_DVR.m3u8
 #EXTINF:-1 tvg-id="TVBrasil.br" description="ProgramaÃ§Ã£o Cultura/TV Brasil"tvg-logo="https://i.imgur.com/sm5K1Ob.png" group-title="",TV Ceará (Fortaleza-CE)
 https://cdn.jmvstream.com/w/AVJ-12940/playlist/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-logo="https://i.imgur.com/ATxceuc.png" group-title="",TV8/AWTV 
-https://stmv2.samcast.com.br/jose8272/jose8272/playlist.m3u8
 #EXTINF:-1 tvg-id="RecordTV.br" description="ProgramaÃ§Ã£o RecordTV"  tvg-logo="https://i.imgur.com/V4DhYx7.png" group-title="",TV Tropical/Rede Record (Natal-RN)
-https://59f2354c05961.streamlock.net:1443/portaldatropical/_definst_/portaldatropical/playlist.m3u8
+https://video03.logicahost.com.br/portaldatropical/portaldatropical/playlist.m3u8
 #EXTINF:-1 tvg-id="TVParanaiba.br" tvg-logo="https://i.imgur.com/Z85PJOg.png" group-title="",TV Paranaíba/Rede Record (Uberlândia-MG)
 https://app.paranaibaplay.com.br/mobile/tv/index.m3u8
 EXTINF:-1 tvg-id="ext" tvg-logo="https://i.imgur.com/0vOdhxK.png" group-title="",TV Tambaú/SBT (João Pessoa-PB)
@@ -105,26 +93,6 @@ https://59e4b6c1beddc.streamlock.net/tvodia/tvodia/playlist.m3u8
 https://acesso.ecast.site:3922/live/redengtlive.m3u8
 #EXTINF:-1 tvg-id="RecordTV.br" description="ProgramaÃ§Ã£o RecordTV" tvg-logo="https://i.imgur.com/cBb5xM0.png" group-title="",NDTV/Rede Record (Criciúma-SC)
 https://caikron.com.br:19360/criciuma/criciuma.m3u8
-#EXTINF:-1 tvg-id="RedeCNTRiodeJaneiro.br" tvg-logo="https://i.imgur.com/wS8kyvT.png" group-title="",CNT São Paulo 
-https://akamai.cdn.spalla.io:443/live/2b512662-a40f-46ef-b540-e8ee3f5bb1fb/s1/playlist-480p.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2ODEzOTA0MzEsImlhdCI6MTY4MDc4NTYzMSwiaWQiOiJiYzc4YzlkOS1iOGI4LTQxNWEtOTVhYy1hOTlkMzYzNWFiZTciLCJuYmYiOjE2ODA3ODM4MzEsInVpZCI6ImJjNzhjOWQ5LWI4YjgtNDE1YS05NWFjLWE5OWQzNjM1YWJlNyIsInVyaV9zdWIiOiIvMmI1MTI2NjItYTQwZi00NmVmLWI1NDAtZThlZTNmNWJiMWZiLyJ9.Chu174tHrGdIMdZkX7T89wFda0C9N0SODWhD_-vtL3M&uid=bc78c9d9-b8b8-415a-95ac-a99d3635abe7
-#EXTINF:-1 tvg-id="RedeCNTRiodeJaneiro.br" tvg-logo="https://i.imgur.com/wS8kyvT.png" group-title="",CNT Bahia
-https://akamai.cdn.spalla.io:443/live/c0fbab1d-8ad6-4b6c-b053-b30a89b02110/s1/playlist-480p.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2ODEzOTAwNDMsImlhdCI6MTY4MDc4NTI0MywiaWQiOiJiYzc4YzlkOS1iOGI4LTQxNWEtOTVhYy1hOTlkMzYzNWFiZTciLCJuYmYiOjE2ODA3ODM0NDMsInVpZCI6ImJjNzhjOWQ5LWI4YjgtNDE1YS05NWFjLWE5OWQzNjM1YWJlNyIsInVyaV9zdWIiOiIvYzBmYmFiMWQtOGFkNi00YjZjLWIwNTMtYjMwYTg5YjAyMTEwLyJ9.jFmRj-IS8wi5b3djw_kSZBlGE1ud6yVJC3c8dJ3riS4&uid=bc78c9d9-b8b8-415a-95ac-a99d3635abe7
-#EXTINF:-1 tvg-id="RedeCNTRiodeJaneiro.br" tvg-logo="https://i.imgur.com/wS8kyvT.png" group-title="",CNT Belém-PA
-https://akamai.cdn.spalla.io/live/22c330e8-e050-4b0d-880a-5fedfbff3067/playlist.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2ODEzOTA2MzAsImlhdCI6MTY4MDc4NTgzMCwiaWQiOiJiYzc4YzlkOS1iOGI4LTQxNWEtOTVhYy1hOTlkMzYzNWFiZTciLCJuYmYiOjE2ODA3ODQwMzAsInVpZCI6ImJjNzhjOWQ5LWI4YjgtNDE1YS05NWFjLWE5OWQzNjM1YWJlNyIsInVyaV9zdWIiOiIvMjJjMzMwZTgtZTA1MC00YjBkLTg4MGEtNWZlZGZiZmYzMDY3LyJ9.rHY-cBCEWxRKEmBpihwApYQ09l5zS5YTUJ1ceJDbGUM&uid=bc78c9d9-b8b8-415a-95ac-a99d3635abe7
-#EXTINF:-1 tvg-id="RedeCNTRiodeJaneiro.br" tvg-logo="https://i.imgur.com/wS8kyvT.png" group-title="",CNT Cuiabá
-https://akamai.cdn.spalla.io:443/live/974e28f6-887e-4831-94ca-06abf1a80c66/s2/playlist-480p.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2ODEzOTA1NzUsImlhdCI6MTY4MDc4NTc3NSwiaWQiOiJiYzc4YzlkOS1iOGI4LTQxNWEtOTVhYy1hOTlkMzYzNWFiZTciLCJuYmYiOjE2ODA3ODM5NzUsInVpZCI6ImJjNzhjOWQ5LWI4YjgtNDE1YS05NWFjLWE5OWQzNjM1YWJlNyIsInVyaV9zdWIiOiIvOTc0ZTI4ZjYtODg3ZS00ODMxLTk0Y2EtMDZhYmYxYTgwYzY2LyJ9.RpnifTpzIQ_5y1M20MXOEfca8mx2nWQpF0K9aJdD-5E&uid=bc78c9d9-b8b8-415a-95ac-a99d3635abe7
-#EXTINF:-1 tvg-id="RedeCNTRiodeJaneiro.br" tvg-logo="https://i.imgur.com/wS8kyvT.png" group-title="",CNT Curitiba
-https://akamai.cdn.spalla.io/live/c0fbab1d-8ad6-4b6c-b053-b30a89b02110/playlist.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2ODEzOTAwNDMsImlhdCI6MTY4MDc4NTI0MywiaWQiOiJiYzc4YzlkOS1iOGI4LTQxNWEtOTVhYy1hOTlkMzYzNWFiZTciLCJuYmYiOjE2ODA3ODM0NDMsInVpZCI6ImJjNzhjOWQ5LWI4YjgtNDE1YS05NWFjLWE5OWQzNjM1YWJlNyIsInVyaV9zdWIiOiIvYzBmYmFiMWQtOGFkNi00YjZjLWIwNTMtYjMwYTg5YjAyMTEwLyJ9.jFmRj-IS8wi5b3djw_kSZBlGE1ud6yVJC3c8dJ3riS4&uid=bc78c9d9-b8b8-415a-95ac-a99d3635abe7
-#EXTINF:-1 tvg-id="RedeCNTRiodeJaneiro.br" tvg-logo="https://i.imgur.com/wS8kyvT.png" group-title="",CNT Manaus
-https://d1s664t39qub1o.cloudfront.net/live/cnt-manaus.m3u8
-#EXTINF:-1 tvg-id="RedeCNTRiodeJaneiro.br" tvg-logo="https://i.imgur.com/wS8kyvT.png" group-title="",CNT Rio
-https://akamai.cdn.spalla.io/live/c125dfb2-87ee-40b9-bf6f-566072c05e84/playlist.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2ODEzOTAxODgsImlhdCI6MTY4MDc4NTM4OCwiaWQiOiJiYzc4YzlkOS1iOGI4LTQxNWEtOTVhYy1hOTlkMzYzNWFiZTciLCJuYmYiOjE2ODA3ODM1ODgsInVpZCI6ImJjNzhjOWQ5LWI4YjgtNDE1YS05NWFjLWE5OWQzNjM1YWJlNyIsInVyaV9zdWIiOiIvYzEyNWRmYjItODdlZS00MGI5LWJmNmYtNTY2MDcyYzA1ZTg0LyJ9.px-NT9NLkT-jonEQMVxdXGjO7K7vQHTPetWRVDrWrvE&uid=bc78c9d9-b8b8-415a-95ac-a99d3635abe7
-#EXTINF:-1 tvg-id="RedeCNTRiodeJaneiro.br" tvg-logo="https://i.imgur.com/wS8kyvT.png" group-title="",CNT Rio Branco
-https://akamai.cdn.spalla.io:443/live/ba76394f-556d-459a-828e-1287361edba4/s1/playlist-480p.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2ODEzOTAyNTQsImlhdCI6MTY4MDc4NTQ1NCwiaWQiOiJiYzc4YzlkOS1iOGI4LTQxNWEtOTVhYy1hOTlkMzYzNWFiZTciLCJuYmYiOjE2ODA3ODM2NTQsInVpZCI6ImJjNzhjOWQ5LWI4YjgtNDE1YS05NWFjLWE5OWQzNjM1YWJlNyIsInVyaV9zdWIiOiIvYmE3NjM5NGYtNTU2ZC00NTlhLTgyOGUtMTI4NzM2MWVkYmE0LyJ9.ZvxwkNIuPiJ4M6c2_IGgv1dvlSohaM0XyhsMacXO3aQ&uid=bc78c9d9-b8b8-415a-95ac-a99d3635abe7
-#EXTINF:-1 tvg-id="RedeCNTRiodeJaneiro.br" tvg-logo="https://i.imgur.com/wS8kyvT.png" group-title="",CNT (Caxias do Sul-RS)
-https://akamai.cdn.spalla.io:443/live/28496f6e-83f6-4167-943b-8bdad7991bb5/s2/playlist-480p.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2ODEzOTA2NzgsImlhdCI6MTY4MDc4NTg3OCwiaWQiOiJiYzc4YzlkOS1iOGI4LTQxNWEtOTVhYy1hOTlkMzYzNWFiZTciLCJuYmYiOjE2ODA3ODQwNzgsInVpZCI6ImJjNzhjOWQ5LWI4YjgtNDE1YS05NWFjLWE5OWQzNjM1YWJlNyIsInVyaV9zdWIiOiIvMjg0OTZmNmUtODNmNi00MTY3LTk0M2ItOGJkYWQ3OTkxYmI1LyJ9.i5Ha4QtZvy_7vX4Iv_kMfvr4bO8AahYA6S6eHbi9zew&uid=bc78c9d9-b8b8-415a-95ac-a99d3635abe7
-#EXTINF:-1 tvg-id="RedeCNTRiodeJaneiro.br" tvg-logo="https://i.imgur.com/wS8kyvT.png" group-title="",CNT Londrina
-https://akamai.cdn.spalla.io:443/live/cb4a055c-36e9-489c-88bc-e225dc6ac594/s2/playlist-480p.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2ODEzOTA3ODUsImlhdCI6MTY4MDc4NTk4NSwiaWQiOiJiYzc4YzlkOS1iOGI4LTQxNWEtOTVhYy1hOTlkMzYzNWFiZTciLCJuYmYiOjE2ODA3ODQxODUsInVpZCI6ImJjNzhjOWQ5LWI4YjgtNDE1YS05NWFjLWE5OWQzNjM1YWJlNyIsInVyaV9zdWIiOiIvY2I0YTA1NWMtMzZlOS00ODljLTg4YmMtZTIyNWRjNmFjNTk0LyJ9.LvMxN3TOM0yjoPa6P93Ei5X2Pnbn5BmCRD2R6jdCrT0&uid=bc78c9d9-b8b8-415a-95ac-a99d3635abe7
 #EXTINF:-1 tvg-id="BandSaoPaulo.br" tvg-logo="https://i.imgur.com/dal1lDK.png" group-title="",Band Mais (Campinas-SP)
 https://enc1.proxy.tokplay.com.br/BAND-MAIS-HD/index.m3u8
 #EXTINF:-1 tvg-id="BandSaoPaulo.br" tvg-logo="https://i.imgur.com/DSIv6Is.png" group-title="",Band Minas (Belo Horizonte-MG)
