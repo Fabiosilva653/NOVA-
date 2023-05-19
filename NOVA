@@ -560,7 +560,7 @@ https://tv02.zas.media:1936/panorama/panorama/chunklist_w369211686.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV Paraense/SBT (Castanhal-PA)
 https://streaming.portaltvparaense.com.br/hls/rtp.m3u8
 #EXTINF:0 type="stream" channelId="-1", Multi Rio
-http://187.111.97.45:1935/webtv/itluM4819Rio/playlist.m3u8
+http://187.111.97.196:1935/webtv/itluM4819Rio/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", GLN TV
 https://alanza.iptv2022.com:443/GLN_TV/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV CEI (Porto Alegre-RS)
