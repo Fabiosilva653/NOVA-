@@ -1,4 +1,6 @@
 #EXTM3U
+EXTINF:0 type="stream" channelId="-1",TV Guaratuba (Gusratuba-PR)
+https://5a2b083e9f360.streamlock.net/tvguaratuba/tvguaratuba.sdp/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1",RedeTVesRedeTVespirita
 https://video01.logicahost.com.br:443/raetv/raetv/chunklist_w1239590516.m3u8
 #EXTINF:0 tipo="fluxo"channelId="1",Rede Itv
